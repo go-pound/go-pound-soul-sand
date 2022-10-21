@@ -1,0 +1,13 @@
+name = "Go Pound Soul Sand"
+author = "Go Pound Sand"
+version = "1.0.0-pre1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4b569beeda87db2a8edc086881df7613aac60efe44a9561c52aea7a46e69e88c"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
