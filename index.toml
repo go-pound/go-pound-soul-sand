@@ -81,6 +81,11 @@ hash = "987b2d4cbd859299f146c1f83602db2f1b36e286091635924127b679a371fbb9"
 metafile = true
 
 [[files]]
+file = "mods/fabrizoom.pw.toml"
+hash = "2e2a4333db4dbfbc383988ce7fd492ef0213c868ea5d7a311c1df47010cbdf07"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "578ff9c4a911659805cc838b936a2cba1a14bb54ff911a7771a112544599988c"
 metafile = true

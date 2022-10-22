@@ -12,7 +12,7 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [BetterNether](https://modrinth.com/mod/betternether) is a total redesign of the Nether.
 * [Earth2Java](https://modrinth.com/mod/earth2java) adds the mobs from Mojang's [Minecraft Earth](https://minecraft.fandom.com/wiki/Minecraft_Earth).
 * [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) updates vanilla biomes with fun mobs, blocks and structures!
-* [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric) "gently expands upon" the vanilla farming experience, with several new crops, foods and blocks. Follow its advancements in-game (press the <kbd>L</kbd> key to view the advancements scren), or read its [getting started guide](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started) to learn more.
+* [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric) "gently expands upon" the vanilla farming experience, with several new crops, foods and blocks. Follow its advancements in-game (press <kbd>L</kbd> to view the advancements scren), or read its [getting started guide](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started) to learn more.
 * [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist) adds immersive wildlife with realistic behavior! 🐘
 * [Oh the Biomes You'll Go](https://modrinth.com/mod/biomesyougo) adds a large variety of realistic and fantastical biomes to the world.
 * [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) includes lots of small additions in the spirit of the vanilla game—jars, signposts, faucets, weather vanes, sconces, lights, and other decoration and automation blocks. Check out [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki) for full documentation.
@@ -32,6 +32,7 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 ### Quality of life
 
 * [EMI](https://modrinth.com/mod/emi) is an improved in-game recipe viewer with a searchable database of blocks and items.
+* [FabriZoom](https://modrinth.com/mod/fabrizoom) adds a highly-configurable zoom key (<kbd>C</kbd> by default) for all you zoomers out there.
 * [Iris](https://modrinth.com/mod/iris) adds support for third-party shader packs, such as [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders).
 * [JourneyMap](https://modrinth.com/mod/journeymap) adds a highly customizable in-game map.
 * [Mod Menu](https://modrinth.com/mod/modmenu) adds a "Mods" button to the game's main menu that allows you to view and configure installed mods.
