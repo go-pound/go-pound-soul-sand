@@ -116,6 +116,11 @@ hash = "481ecdcaa4da3c8c13422e01c39a5c04666827fad40df86b95e0ca26e9d45706"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "2acd6d99abc9774fb38395bd825039343d7189fb9712f17788410fa731d5147c"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "a2fcd52b158985c7e94399700d2414d0a380e55cfa0ecb0d24e4ec50982a4eb8"
 metafile = true
 
 [[files]]
