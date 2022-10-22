@@ -86,11 +86,6 @@ hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
 metafile = true
 
 [[files]]
-file = "mods/fabrizoom.pw.toml"
-hash = "2e2a4333db4dbfbc383988ce7fd492ef0213c868ea5d7a311c1df47010cbdf07"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "578ff9c4a911659805cc838b936a2cba1a14bb54ff911a7771a112544599988c"
 metafile = true
@@ -258,4 +253,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "b2b5c11320601e1bccb196404515ad8f6b35ccb6db508db785806d483b71085b"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
 metafile = true
