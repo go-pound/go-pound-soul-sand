@@ -32,11 +32,11 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 ### Quality of life
 
 * [EMI](https://modrinth.com/mod/emi) is an improved in-game recipe viewer with a searchable database of blocks and items.
-* [FabriZoom](https://modrinth.com/mod/fabrizoom) adds a highly-configurable zoom key (<kbd>C</kbd> by default) for all you zoomers out there.
 * [Iris](https://modrinth.com/mod/iris) adds support for third-party shader packs, such as [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders).
 * [JourneyMap](https://modrinth.com/mod/journeymap) adds a highly customizable in-game map.
 * [Mod Menu](https://modrinth.com/mod/modmenu) adds a "Mods" button to the game's main menu that allows you to view and configure installed mods.
 * [WTHIT](https://modrinth.com/mod/wthit) (What the Hell is That?) adds an optional hint to your in-game UI that shows the name and other useful details of the block or mob you're looking at.
+* [Zoomify](https://modrinth.com/mod/zoomify) adds a highly-configurable zoom key (<kbd>C</kbd> by default) for all you zoomers out there.
 
 ### Performance
 
