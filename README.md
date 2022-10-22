@@ -31,6 +31,7 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 
 ### Quality of life
 
+* [Amecs](https://modrinth.com/mod/amecs) (Alt-Meta-Escape-Control-Shift) allows you to use modifier keys in Minecraft's key bindings, so that e.g. <kbd>B</kbd> and <kbd>Shift</kbd> + <kbd>B</kbd> can be assigned to different functions. It also adds a search field to the key bindings menu.
 * [EMI](https://modrinth.com/mod/emi) is an improved in-game recipe viewer with a searchable database of blocks and items.
 * [Iris](https://modrinth.com/mod/iris) adds support for third-party shader packs, such as [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders).
 * [JourneyMap](https://modrinth.com/mod/journeymap) adds a highly customizable in-game map.

@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
 metafile = true
