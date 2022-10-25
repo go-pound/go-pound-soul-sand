@@ -221,6 +221,11 @@ hash = "aa6981272e6dd1f002566047ae0042b3545ad97417938740eb0795f109ad3008"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "a67ae4ae4f4065d630f6e09882ea8622df2aa4a022d0f5705df1299070f4cfc9"
+metafile = true
+
+[[files]]
 file = "mods/william-wythers-overhauled-overworld.pw.toml"
 hash = "7630460e5564c9c27bc2f014db4a5e93f887f9e2ac44e84e269d7c4242ab35e4"
 metafile = true
