@@ -34,6 +34,7 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [AdvancementInfo](https://modrinth.com/mod/advancementinfo) embiggens the advancements screen and gives you hints about what's required for each advancement. (This can be useful if, for example, you're working on a "visit every biome" advancement.)
 * [Amecs](https://modrinth.com/mod/amecs) (Alt-Meta-Escape-Control-Shift) allows you to use modifier keys in Minecraft's key bindings, so that e.g. <kbd>B</kbd> and <kbd>Shift</kbd> + <kbd>B</kbd> can be assigned to different functions. It also adds a search field to the key bindings menu.
 * [BetterF3](https://modrinth.com/mod/betterf3) replaces the default debug HUD (<kbd>F3</kbd> by default) with a more readable and customizable version.
+* [Chalk](https://modrinth.com/mod/chalk) improves your spelunking experience by adding chalk, with which you can mark blocks (such as cave walls) with arrows. You can even make the chalk glow in the dark!
 * [EMI](https://modrinth.com/mod/emi) is an improved in-game recipe viewer with a searchable database of blocks and items.
 * [FallingTree](https://modrinth.com/mod/fallingtree) speeds up your ruthless deforestation by only requiring you to break one block of a tree's trunk to fell the whole thing.
 * [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) adds sorting buttons to inventory screens, helps you move items between inventories, can automatically replace broken tools, and more.
