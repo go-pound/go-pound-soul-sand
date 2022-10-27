@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "d1b7ff92dd5d290ef19db22212b56d750e45d6358188ae55456c018c513a9687"
+
+[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
 
