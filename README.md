@@ -28,7 +28,6 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric) improves vanilla strongholds with greater complexity, variety and difficulty. Reaching the End just got harder!
 * [YUNG's Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric) adds a few different variations on vanilla witch huts, and revamps their loot to be more witch-like.
 
-
 ### Quality of life
 
 * [AdvancementInfo](https://modrinth.com/mod/advancementinfo) embiggens the advancements screen and gives you hints about what's required for each advancement. (This can be useful if, for example, you're working on a "visit every biome" advancement.)
@@ -63,7 +62,6 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) tinkers with JVM knobs to improve CPU scheduling.
 * [Sodium](https://modrinth.com/mod/sodium) completely replaces the game's rendering engine with a highly-optimized, modern take.
 * [Starlight](https://modrinth.com/mod/starlight) replaces the vanilla lighting engine with a much faster one.
-
 
 ## Contributing
 
