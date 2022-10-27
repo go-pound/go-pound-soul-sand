@@ -17,6 +17,18 @@ file = "journeymap/config/5.9/journeymap.core.config"
 hash = "72355a0c44f5034ef841c9344c344782bd08ad312a2e3727bcecd560a6724928"
 
 [[files]]
+file = "journeymap/config/5.9/journeymap.fullmap.config"
+hash = "039d36c39e0bc758ffe9095f1b2498c53b00e61e48ab8d57952f401a31fc6958"
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.minimap.config"
+hash = "41b77763e5e670afe46d54b9bdb52398f442251d1f5b558f7c64075518ef0926"
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.minimap2.config"
+hash = "5ed4dd46017e916363581e1a330fb0d62555b7024e702d09744d82f5d9e5ee72"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
