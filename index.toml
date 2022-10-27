@@ -186,6 +186,11 @@ hash = "741381be667a7b124ce60ba17fca9207369bd6ead4e58ce64fa140aff95f8159"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "928049dc37b7b41a8d7cadf9977d183527c74744f9dce884c9c04a76b3276832"
 metafile = true
