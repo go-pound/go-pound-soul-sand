@@ -13,6 +13,10 @@ file = "config/universal-graves.json"
 hash = "ee137c0207dbc5bdaaf2a2a431f99de62a504db206655f6f3289c6cd763521ce"
 
 [[files]]
+file = "journeymap/config/5.9/journeymap.core.config"
+hash = "72355a0c44f5034ef841c9344c344782bd08ad312a2e3727bcecd560a6724928"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
