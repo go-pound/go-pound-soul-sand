@@ -46,6 +46,18 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [WTHIT](https://modrinth.com/mod/wthit) (What the Hell is That?) adds an optional hint to your in-game UI that shows the name and other useful details of the block or mob you're looking at.
 * [Zoomify](https://modrinth.com/mod/zoomify) adds a highly-configurable zoom key (<kbd>C</kbd> by default) for all you zoomers out there.
 
+### Shaders
+
+Go Pound Soul Sand comes with several popular [shader](https://en.wikipedia.org/wiki/Shader) packs, each with a distinct visual style. To try them out, press <kbd>O</kbd> in-game (or navigate to Options > Video Settings > Shader Packs) to bring up the shader selection screen, select a pack, and click "Apply". Press <kbd>K</kbd> to quickly toggle your chosen shaders on and off.
+
+Note that shaders tax your GPU and will impact game performance. They're purely visual effects, so it's up to you whether you enjoy playing with them or not!
+
+* [BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders)
+* [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders)
+* [Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined)
+
+Most shader packs are heavily customizable. Use the "Shader Pack Settings…" button on the shader selection screen to tinker around! For example, you can disable real-time reflections to improve performance, opt out of wavy grass, or tone down color saturation to suit your personal taste.
+
 ### Performance
 
 * [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) improves chunk loading and unloading performance.
