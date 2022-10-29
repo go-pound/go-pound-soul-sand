@@ -14,7 +14,7 @@ Go Pound Soul Sand is distributed as a self-updating [Prism Launcher](https://pr
 1. Click OK. Prism will create a new instance with the name you specified. Double-click the icon to play! Every time you launch the game, Go Pound Soul Sand will automatically update itself.
 1. In Minecraft's main menu, click "Multiplayer" and add `test.minecraft.gopound.party` to your server list.
 
-![images/creating-an-instance.png](Creating a Go Pound Soul Sand instance in Prism Launcher)
+![Creating a Go Pound Soul Sand instance in Prism Launcher](images/creating-an-instance.png)
 
 ## Mods
 
