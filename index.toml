@@ -34,7 +34,7 @@ hash = "49b967f8390c3c0817a161b36eb5c475beeda7ed757a0b66413c17ae78d95013"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "947361af95d974e40fca1b57afcbbd1a11713ffc3d7ae2d877f431cbc06f01f1"
+hash = "f8fd50d8e6e5ea0892287971c10d4313d48f7d523fa62b0c5b6368c4ec2ffe9d"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -392,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "f461c149788f81fdc37051fc67a8496478b685d96258c98e477f24e696294e78"
 metafile = true
 
 [[files]]
