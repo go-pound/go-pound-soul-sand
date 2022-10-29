@@ -2,6 +2,20 @@
 
 Go Pound Soul Sand is Go Pound's Minecraft mod pack.
 
+## How to play
+
+Go Pound Soul Sand is distributed as a self-updating [Prism Launcher](https://prismlauncher.org/) instance. (As Prism is a fork of PolyMC, which is itself a fork of MultiMC, those launchers will probably work, too, but [you may want to avoid them](https://prismlauncher.org/wiki/overview/faq/).) To get started:
+
+1. Follow [Prism's guide to installing Adoptium's Temurin 17 Java distribution](https://prismlauncher.org/wiki/getting-started/installing-java/). (If you've only used Mojang's official Minecraft launcher, this is probably a new step for you—Mojang is able to package its own version of Java, but Prism cannot, so you need to install it yourself.)
+1. Download, install and launch [Prism Launcher](https://prismlauncher.org/download/) for your platform.
+1. Click "Add Instance". The "New Instance" window will open. Give your instance a name, like "Go Pound Soul Sand". You can optionally set a group, which is a way to organize your Minecraft instances in the main PolyMC window. For example, you could group your instances by Minecraft game version.
+1. In the left sidebar, select "Import from zip".
+1. Copy and paste this URL into the text field: https://raw.githubusercontent.com/go-pound/go-pound-soul-sand/main/prism-instance.zip
+1. Click OK. Prism will create a new instance with the name you specified. Double-click the icon to play! Every time you launch the game, Go Pound Soul Sand will automatically update itself.
+1. In Minecraft's main menu, click "Multiplayer" and add `test.minecraft.gopound.party` to your server list.
+
+![images/creating-an-instance.png](Creating a Go Pound Soul Sand instance in Prism Launcher)
+
 ## Mods
 
 Here are the major, game-changing mods included in the pack. For an exhaustive list, including dependencies and version numbers, see the `*.pw.toml` metadata files in the [`mods` folder](mods).
