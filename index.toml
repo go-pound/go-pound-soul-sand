@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-manager.pw.toml"
-hash = "5eaa5695eb83ba34e0459283307ab27c260ada3adc73af3fffa7dbf212111f22"
+hash = "c5a56162462c2e4905ced17158a86439054453448b9bba8d1b37daca90acc3a3"
 metafile = true
 
 [[files]]
