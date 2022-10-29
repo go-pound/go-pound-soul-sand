@@ -70,6 +70,7 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [Mod Menu](https://modrinth.com/mod/modmenu) adds a "Mods" button to the game's main menu that allows you to view and configure installed mods.
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) enhances the vanilla RMB item dragging mechanic to make it more useful, adds two new LMB dragging mechanics, and the ability to quickly move items between inventories using your scroll wheel.
 * [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) is a resource pack that adds variations to break up the vanilla game's repetitive textures. It also makes leaves bushy! If you prefer the vanilla look, you can disable the resource pack in the game options.
+* [Toast Manager](https://www.curseforge.com/minecraft/mc-mods/toast-manager) disables the tutorial and recipe toast notifications that you probably no longer need to guide you through the game. (But you can re-enable them in the mod's settings screen if you wish.)
 * [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) adds methods of connecting chests together with a single, searchable inventory interface.
 * [Universal Graves](https://modrinth.com/mod/universal-graves) sticks your inventory and XP in a gravestone, complete with your head on it, when you die.
 * [WTHIT](https://modrinth.com/mod/wthit) (What the Hell is That?) adds an optional hint to your in-game UI that shows the name and other useful details of the block or mob you're looking at.
