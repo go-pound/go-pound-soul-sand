@@ -9,6 +9,26 @@ file = "config/byg/biomepedia.json5"
 hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
 
 [[files]]
+file = "config/defaultoptions/extra/journeymap/config/5.9/journeymap.core.config"
+hash = "72355a0c44f5034ef841c9344c344782bd08ad312a2e3727bcecd560a6724928"
+
+[[files]]
+file = "config/defaultoptions/extra/journeymap/config/5.9/journeymap.fullmap.config"
+hash = "039d36c39e0bc758ffe9095f1b2498c53b00e61e48ab8d57952f401a31fc6958"
+
+[[files]]
+file = "config/defaultoptions/extra/journeymap/config/5.9/journeymap.minimap.config"
+hash = "41b77763e5e670afe46d54b9bdb52398f442251d1f5b558f7c64075518ef0926"
+
+[[files]]
+file = "config/defaultoptions/extra/journeymap/config/5.9/journeymap.minimap2.config"
+hash = "5ed4dd46017e916363581e1a330fb0d62555b7024e702d09744d82f5d9e5ee72"
+
+[[files]]
+file = "config/defaultoptions/extra/options.amecsapi.txt"
+hash = "22d6f40f960215229ea1da076c44354dbe0515c4a1eb99af2b63e9fdd6a61b9c"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "49b967f8390c3c0817a161b36eb5c475beeda7ed757a0b66413c17ae78d95013"
 
@@ -23,22 +43,6 @@ hash = "cf4dacea9a70d2041dbca9ddb20d0b1709b2e88e934e3563d263e61f332bda5e"
 [[files]]
 file = "config/universal-graves.json"
 hash = "ee137c0207dbc5bdaaf2a2a431f99de62a504db206655f6f3289c6cd763521ce"
-
-[[files]]
-file = "journeymap/config/5.9/journeymap.core.config"
-hash = "72355a0c44f5034ef841c9344c344782bd08ad312a2e3727bcecd560a6724928"
-
-[[files]]
-file = "journeymap/config/5.9/journeymap.fullmap.config"
-hash = "039d36c39e0bc758ffe9095f1b2498c53b00e61e48ab8d57952f401a31fc6958"
-
-[[files]]
-file = "journeymap/config/5.9/journeymap.minimap.config"
-hash = "41b77763e5e670afe46d54b9bdb52398f442251d1f5b558f7c64075518ef0926"
-
-[[files]]
-file = "journeymap/config/5.9/journeymap.minimap2.config"
-hash = "5ed4dd46017e916363581e1a330fb0d62555b7024e702d09744d82f5d9e5ee72"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
