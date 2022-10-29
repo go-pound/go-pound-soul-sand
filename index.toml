@@ -342,3 +342,18 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
 metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "b58367c11712249fd8bb1014ac64d12ac2f7c1ae0140f038b6020574b2a5c05f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "bc87720b83e86ef99d429d5811fe536e2130b48bac9f92cc9b9108fb5d427698"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary.pw.toml"
+hash = "40602c53962dcbff1c83a6386696368d021ffa6b13472a0a0849fada797f544d"
+metafile = true

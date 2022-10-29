@@ -1,0 +1,7 @@
+name = "bsl-shaders"
+filename = "BSL_v8.2.zip"
+
+[download]
+url = "https://s3.amazonaws.com/minecraft/shader-packs/BSL_v8.2.zip"
+hash-format = "sha1"
+hash = "d41a003e744bae6ffaa69bd48aeeaeae588ab89f"
