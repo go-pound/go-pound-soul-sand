@@ -75,6 +75,11 @@ hash = "5a9808e1125ab6e1bd3b5b347b26342c8fdb4845a2b6a494bcef21d4881504e6"
 metafile = true
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "034bb649928db6d2f27cf2f18c6c3a17c7732602386347e94b09fdb112965ac3"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "e3745fe039940bde438767cf84d1d313bec5d806415b185ac4386c368190a6f9"
 metafile = true
@@ -185,6 +190,11 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "215fb8df4474c3893d7ef048065ec87aa02b9e956ce2b8b6f0306ad8943da8b1"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ec0872fe9f5687fcf1d0d65d171bef0b92afe07a4e6b89b10a08cd8654563d82"
 metafile = true
@@ -257,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "928049dc37b7b41a8d7cadf9977d183527c74744f9dce884c9c04a76b3276832"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
 metafile = true
 
 [[files]]
