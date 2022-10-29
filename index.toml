@@ -34,7 +34,7 @@ hash = "49b967f8390c3c0817a161b36eb5c475beeda7ed757a0b66413c17ae78d95013"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "1167fc41eb4451df74725d61149afa9ec5196a7e1f060f3cf551a810beda5aa6"
+hash = "947361af95d974e40fca1b57afcbbd1a11713ffc3d7ae2d877f431cbc06f01f1"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -115,6 +115,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "59da146d66e2948dfbd203684937dfb822711a228bd505332b5a979678bedbbc"
 metafile = true
@@ -187,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "481ecdcaa4da3c8c13422e01c39a5c04666827fad40df86b95e0ca26e9d45706"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
