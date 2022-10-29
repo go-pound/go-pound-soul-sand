@@ -205,6 +205,11 @@ hash = "481ecdcaa4da3c8c13422e01c39a5c04666827fad40df86b95e0ca26e9d45706"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "95ecd55cdac33c896bbbbab955abbf29acebebda6530efe0a012dfdd124288f5"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true

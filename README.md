@@ -64,6 +64,7 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [Continuity](https://modrinth.com/mod/continuity) removes the frames between adjacent glass blocks to create the appearance of a single unbroken pane. If you prefer vanilla-style glass, you can disable Continuity's resource pack in the game options.
 * [EMI](https://modrinth.com/mod/emi) is an improved in-game recipe viewer with a searchable database of blocks and items.
 * [FallingTree](https://modrinth.com/mod/fallingtree) speeds up your ruthless deforestation by only requiring you to break one block of a tree's trunk to fell the whole thing.
+* [Immersive Portals](https://modrinth.com/mod/immersiveportals) allows you to see through Nether and End portals, and walk through them without a loading screen.
 * [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) adds sorting buttons to inventory screens, helps you move items between inventories, can automatically replace broken tools, and more.
 * [Iris](https://modrinth.com/mod/iris) adds support for third-party shader packs, such as [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders).
 * [JourneyMap](https://modrinth.com/mod/journeymap) adds a highly customizable in-game map.
