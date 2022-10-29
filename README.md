@@ -2,6 +2,18 @@
 
 Go Pound Soul Sand is Go Pound's Minecraft mod pack.
 
+## Contents
+
+1. [How to play](#how-to-play)
+1. [Mods](#mods)
+   1. [New content](#new-content)
+   1. [Quality of life](#quality-of-life)
+   1. [Shaders](#shaders)
+   1. [Performance](#performance)
+1. [Contributing](#contributing)
+1. [Versioning](#versioning)
+1. [License](#license)
+
 ## How to play
 
 Go Pound Soul Sand is distributed as a self-updating [Prism Launcher](https://prismlauncher.org/) instance. (As Prism is a fork of PolyMC, which is itself a fork of MultiMC, those launchers will probably work, too, but [you may want to avoid them](https://prismlauncher.org/wiki/overview/faq/).) To get started:
