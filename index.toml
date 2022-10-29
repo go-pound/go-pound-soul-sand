@@ -9,6 +9,18 @@ file = "config/byg/biomepedia.json5"
 hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "49b967f8390c3c0817a161b36eb5c475beeda7ed757a0b66413c17ae78d95013"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "1167fc41eb4451df74725d61149afa9ec5196a7e1f060f3cf551a810beda5aa6"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "cf4dacea9a70d2041dbca9ddb20d0b1709b2e88e934e3563d263e61f332bda5e"
+
+[[files]]
 file = "config/universal-graves.json"
 hash = "ee137c0207dbc5bdaaf2a2a431f99de62a504db206655f6f3289c6cd763521ce"
 
