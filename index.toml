@@ -149,6 +149,11 @@ hash = "8c82e927eea2e4f9dc1e5377d21c4bf84af36714dd0b10f44ce932c18f80c9b6"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "4f15070fd65003a7f2e99e7b622dfca850f33826a562fdb9f47a3e90653861c6"
+metafile = true
+
+[[files]]
 file = "mods/dynamicsurroundings_remasteredfabric.pw.toml"
 hash = "4038b41bba5cfd84d5e0a7d7ce1e042f735bde097f7b68460bc6c6366d567eeb"
 metafile = true
