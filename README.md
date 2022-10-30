@@ -61,6 +61,7 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [Auditory](https://modrinth.com/mod/auditory) adds unique block placement sounds.
 * [Better Animations Collection](https://modrinth.com/mod/better-animations-collection) improves vanilla mobs with more detailed animations and subtle effects.
 * [BetterF3](https://modrinth.com/mod/betterf3) replaces the default debug HUD (<kbd>F3</kbd> by default) with a more readable and customizable version.
+* [CameraOverhaul](https://modrinth.com/mod/cameraoverhaul) emphasizes your movement by adding camera rotations as you strafe, turn and jump. You can tweak or disable any of the movement as desired.
 * [Chalk](https://modrinth.com/mod/chalk) improves your spelunking experience by adding chalk, with which you can mark blocks (such as cave walls) with arrows. You can even make the chalk glow in the dark!
 * [Continuity](https://modrinth.com/mod/continuity) removes the frames between adjacent glass blocks to create the appearance of a single unbroken pane. If you prefer vanilla-style glass, you can disable Continuity's resource pack in the game options.
 * [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) enhances background sounds and adds subtle visual effects, like particle effects on waterfalls.
