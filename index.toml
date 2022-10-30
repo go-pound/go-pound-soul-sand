@@ -134,6 +134,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/connectible_chains.pw.toml"
+hash = "fad528eecf196e7cd387a88a3668d135c7433540f959d6e754087e8046d904ee"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true

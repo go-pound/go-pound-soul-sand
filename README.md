@@ -63,6 +63,7 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [BetterF3](https://modrinth.com/mod/betterf3) replaces the default debug HUD (<kbd>F3</kbd> by default) with a more readable and customizable version.
 * [CameraOverhaul](https://modrinth.com/mod/cameraoverhaul) emphasizes your movement by adding camera rotations as you strafe, turn and jump. You can tweak or disable any of the movement as desired.
 * [Chalk](https://modrinth.com/mod/chalk) improves your spelunking experience by adding chalk, with which you can mark blocks (such as cave walls) with arrows. You can even make the chalk glow in the dark!
+* [Connectible Chains](https://modrinth.com/mod/connectible_chains) adds decorative chains. String them between your fence posts!
 * [Continuity](https://modrinth.com/mod/continuity) removes the frames between adjacent glass blocks to create the appearance of a single unbroken pane. If you prefer vanilla-style glass, you can disable Continuity's resource pack in the game options.
 * [Couplings](https://modrinth.com/mod/couplings) opens connected doors, fence gates and trap doors. Finally!
 * [Diagonal Fences](https://modrinth.com/mod/diagonal-fences) does what it says on the tin.
