@@ -139,6 +139,11 @@ hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
 
 [[files]]
+file = "mods/couplings.pw.toml"
+hash = "e9959b342401ffdb0ddae4e9fd151b97a9cb94624d4658daafdac0c17d8bc262"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "59da146d66e2948dfbd203684937dfb822711a228bd505332b5a979678bedbbc"
 metafile = true
