@@ -65,6 +65,7 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [Chalk](https://modrinth.com/mod/chalk) improves your spelunking experience by adding chalk, with which you can mark blocks (such as cave walls) with arrows. You can even make the chalk glow in the dark!
 * [Continuity](https://modrinth.com/mod/continuity) removes the frames between adjacent glass blocks to create the appearance of a single unbroken pane. If you prefer vanilla-style glass, you can disable Continuity's resource pack in the game options.
 * [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) enhances background sounds and adds subtle visual effects, like particle effects on waterfalls.
+* [Effective](https://www.curseforge.com/minecraft/mc-mods/effective) adds satisfying water effects. Watch a friend jump in!
 * [EMI](https://modrinth.com/mod/emi) is an improved in-game recipe viewer with a searchable database of blocks and items.
 * [Extra Sounds](https://modrinth.com/mod/extrasounds) adds subtle interface sounds for scrolling, inventory pickup and placement, chat messages, and more.
 * [FallingTree](https://modrinth.com/mod/fallingtree) speeds up your ruthless deforestation by only requiring you to break one block of a tree's trunk to fell the whole thing.
