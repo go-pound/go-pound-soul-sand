@@ -24,7 +24,6 @@ Go Pound Soul Sand is distributed as a self-updating [Prism Launcher](https://pr
 1. In the left sidebar, select "Import from zip".
 1. Copy and paste this URL into the text field: https://raw.githubusercontent.com/go-pound/go-pound-soul-sand/main/prism-instance.zip
 1. Click OK. Prism will create a new instance with the name you specified. Double-click the icon to play! Every time you launch the game, Go Pound Soul Sand will automatically update itself.
-1. In Minecraft's main menu, click "Multiplayer" and add `test.minecraft.gopound.party` to your server list.
 
 ![Creating a Go Pound Soul Sand instance in Prism Launcher](images/creating-an-instance.png)
 
