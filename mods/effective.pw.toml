@@ -1,7 +1,0 @@
-name = "effective"
-filename = "effective-1.4.jar"
-
-[download]
-url = "https://s3.amazonaws.com/minecraft/mods/1.19/fabric/effective-1.4.jar"
-hash-format = "sha1"
-hash = "d59df028b38ceec82a079f1d3747b4ec08868aa5"

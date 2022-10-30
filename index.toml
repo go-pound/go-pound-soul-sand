@@ -184,11 +184,6 @@ hash = "1728e54a414ac18f912cfcb1669a3b180f78e47bbd52175d6d00d5682f82e1d0"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "5e178c16588ff8574b0510a421dffd452c506530409d746895e1ac8a69b2c749"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "7250c341106f7097064eaf65f72cb3d7668f0c3a28a67278442f42441020d465"
 metafile = true
