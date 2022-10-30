@@ -68,7 +68,6 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [Couplings](https://modrinth.com/mod/couplings) opens connected doors, fence gates and trap doors. Finally!
 * [Diagonal Fences](https://modrinth.com/mod/diagonal-fences) does what it says on the tin.
 * [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) enhances background sounds and adds subtle visual effects, like particle effects on waterfalls.
-* [Effective](https://www.curseforge.com/minecraft/mc-mods/effective) adds satisfying water effects. Watch a friend jump in!
 * [EMI](https://modrinth.com/mod/emi) is an improved in-game recipe viewer with a searchable database of blocks and items.
 * [Extra Sounds](https://modrinth.com/mod/extrasounds) adds subtle interface sounds for scrolling, inventory pickup and placement, chat messages, and more.
 * [FallingTree](https://modrinth.com/mod/fallingtree) speeds up your ruthless deforestation by only requiring you to break one block of a tree's trunk to fell the whole thing.
