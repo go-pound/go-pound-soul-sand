@@ -41,6 +41,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "cf4dacea9a70d2041dbca9ddb20d0b1709b2e88e934e3563d263e61f332bda5e"
 
 [[files]]
+file = "config/immersive_portals_fabric.json"
+hash = "7d4b0e62197bf7b8c0cdb24acfe4b1742e4e7814d0da33fb18d96698a6292189"
+
+[[files]]
 file = "config/universal-graves.json"
 hash = "ee137c0207dbc5bdaaf2a2a431f99de62a504db206655f6f3289c6cd763521ce"
 
@@ -57,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
+metafile = true
+
+[[files]]
+file = "mods/auditory.pw.toml"
+hash = "eeffd7e5ea04e6e5e5d43b65249501c0a6fa22ff68cb6a0e4e7b4e12a0bd9ac8"
 metafile = true
 
 [[files]]
@@ -135,6 +144,11 @@ hash = "8c82e927eea2e4f9dc1e5377d21c4bf84af36714dd0b10f44ce932c18f80c9b6"
 metafile = true
 
 [[files]]
+file = "mods/dynamicsurroundings_remasteredfabric.pw.toml"
+hash = "4038b41bba5cfd84d5e0a7d7ce1e042f735bde097f7b68460bc6c6366d567eeb"
+metafile = true
+
+[[files]]
 file = "mods/earth2java.pw.toml"
 hash = "7b08bf0757ccb5b0dcbb20a37c8bd16d6a5f4a8f87b5615da901e28e779d421d"
 metafile = true
@@ -157,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/extrasounds.pw.toml"
+hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
 
 [[files]]
@@ -272,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "928049dc37b7b41a8d7cadf9977d183527c74744f9dce884c9c04a76b3276832"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "c0b8dcde9209582f6bdf00db9d6df59e9db51ee592020e7552576a3cf2109b04"
 metafile = true
 
 [[files]]
