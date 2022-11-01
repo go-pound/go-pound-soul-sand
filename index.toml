@@ -30,7 +30,7 @@ hash = "22d6f40f960215229ea1da076c44354dbe0515c4a1eb99af2b63e9fdd6a61b9c"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "49b967f8390c3c0817a161b36eb5c475beeda7ed757a0b66413c17ae78d95013"
+hash = "75da86d70e4337ab5d202c9646cb979056e68a157582e2fdce2201d5c8df47fb"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -111,11 +111,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
-metafile = true
-
-[[files]]
-file = "mods/cameraoverhaul.pw.toml"
-hash = "454131477dc48c24252731d4821abc813e697e4b6a9b4bc3c41af40947154fd1"
 metafile = true
 
 [[files]]
