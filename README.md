@@ -33,14 +33,21 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 
 ### New content
 
+* [Auditory](https://modrinth.com/mod/auditory) adds unique block placement sounds.
 * [BetterEnd](https://modrinth.com/mod/betterend) is a total redesign of the End dimension.
 * [BetterNether](https://modrinth.com/mod/betternether) is a total redesign of the Nether.
+* [Chalk](https://modrinth.com/mod/chalk) improves your spelunking experience by adding chalk, with which you can mark blocks (such as cave walls) with arrows. You can even make the chalk glow in the dark!
+* [Connectible Chains](https://modrinth.com/mod/connectible_chains) adds decorative chains. String them between your fence posts!
+* [Diagonal Fences](https://modrinth.com/mod/diagonal-fences) does what it says on the tin.
+* [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) enhances background sounds and adds subtle visual effects, like particle effects on waterfalls.
 * [Earth2Java](https://modrinth.com/mod/earth2java) adds the mobs from Mojang's [Minecraft Earth](https://minecraft.fandom.com/wiki/Minecraft_Earth).
 * [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) updates vanilla biomes with fun mobs, blocks and structures!
 * [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric) "gently expands upon" the vanilla farming experience, with several new crops, foods and blocks. Follow its advancements in-game (press <kbd>L</kbd> to view the advancements screen), or read its [getting started guide](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started) to learn more.
+* [Immersive Portals](https://modrinth.com/mod/immersiveportals) allows you to see through Nether and End portals, and walk through them without a loading screen.
 * [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist) adds immersive wildlife with realistic behavior! 🐘
 * [Oh the Biomes You'll Go](https://modrinth.com/mod/biomesyougo) adds a large variety of realistic and fantastical biomes to the world.
 * [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) includes lots of small additions in the spirit of the vanilla game—jars, signposts, faucets, weather vanes, sconces, lights, and other decoration and automation blocks. Check out [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki) for full documentation.
+* [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) adds methods of connecting chests together with a single, searchable inventory interface.
 * [Towns and Towers](https://modrinth.com/mod/towns-and-towers-structure-add-on) adds new villages, pillager outposts, and other structures to the world.
 * [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric) adds customizable backpacks for adventurers!
 * [William Wythers' Overhauled Overworld](https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld) adds over 200 new unique biomes, in addition to the ones already added by Oh the Biomes You'll Go.
@@ -57,18 +64,12 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 
 * [AdvancementInfo](https://modrinth.com/mod/advancementinfo) embiggens the advancements screen and gives you hints about what's required for each advancement. (This can be useful if, for example, you're working on a "visit every biome" advancement.)
 * [Amecs](https://modrinth.com/mod/amecs) (Alt-Meta-Escape-Control-Shift) allows you to use modifier keys in Minecraft's key bindings, so that e.g. <kbd>B</kbd> and <kbd>Shift</kbd> + <kbd>B</kbd> can be assigned to different functions. It also adds a search field to the key bindings menu.
-* [Auditory](https://modrinth.com/mod/auditory) adds unique block placement sounds.
 * [Better Animations Collection](https://modrinth.com/mod/better-animations-collection) improves vanilla mobs with more detailed animations and subtle effects.
 * [BetterF3](https://modrinth.com/mod/betterf3) replaces the default debug HUD (<kbd>F3</kbd> by default) with a more readable and customizable version.
-* [Chalk](https://modrinth.com/mod/chalk) improves your spelunking experience by adding chalk, with which you can mark blocks (such as cave walls) with arrows. You can even make the chalk glow in the dark!
-* [Connectible Chains](https://modrinth.com/mod/connectible_chains) adds decorative chains. String them between your fence posts!
 * [Continuity](https://modrinth.com/mod/continuity) removes the frames between adjacent glass blocks to create the appearance of a single unbroken pane. If you prefer vanilla-style glass, you can disable Continuity's resource pack in the game options.
 * [Couplings](https://modrinth.com/mod/couplings) opens connected doors, fence gates and trap doors. Finally!
-* [Diagonal Fences](https://modrinth.com/mod/diagonal-fences) does what it says on the tin.
-* [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) enhances background sounds and adds subtle visual effects, like particle effects on waterfalls.
 * [EMI](https://modrinth.com/mod/emi) is an improved in-game recipe viewer with a searchable database of blocks and items.
 * [FallingTree](https://modrinth.com/mod/fallingtree) speeds up your ruthless deforestation by only requiring you to break one block of a tree's trunk to fell the whole thing.
-* [Immersive Portals](https://modrinth.com/mod/immersiveportals) allows you to see through Nether and End portals, and walk through them without a loading screen.
 * [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) adds sorting buttons to inventory screens, helps you move items between inventories, can automatically replace broken tools, and more.
 * [Iris](https://modrinth.com/mod/iris) adds support for third-party shader packs, such as [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders).
 * [JourneyMap](https://modrinth.com/mod/journeymap) adds a highly customizable in-game map.
@@ -76,7 +77,6 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) enhances the vanilla RMB item dragging mechanic to make it more useful, adds two new LMB dragging mechanics, and the ability to quickly move items between inventories using your scroll wheel.
 * [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) is a resource pack that adds variations to break up the vanilla game's repetitive textures. It also makes leaves bushy! If you prefer the vanilla look, you can disable the resource pack in the game options.
 * [Toast Manager](https://www.curseforge.com/minecraft/mc-mods/toast-manager) disables the tutorial and recipe toast notifications that you probably no longer need to guide you through the game. (But you can re-enable them in the mod's settings screen if you wish.)
-* [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) adds methods of connecting chests together with a single, searchable inventory interface.
 * [Universal Graves](https://modrinth.com/mod/universal-graves) sticks your inventory and XP in a gravestone, complete with your head on it, when you die.
 * [WTHIT](https://modrinth.com/mod/wthit) (What the Hell is That?) adds an optional hint to your in-game UI that shows the name and other useful details of the block or mob you're looking at.
 * [Zoomify](https://modrinth.com/mod/zoomify) adds a highly-configurable zoom key (<kbd>C</kbd> by default) for all you zoomers out there.
