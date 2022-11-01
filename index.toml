@@ -189,11 +189,6 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
-file = "mods/extrasounds.pw.toml"
-hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "987b2d4cbd859299f146c1f83602db2f1b36e286091635924127b679a371fbb9"
 metafile = true
