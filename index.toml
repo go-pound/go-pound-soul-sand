@@ -9,6 +9,10 @@ file = "config/byg/biomepedia.json5"
 hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
 
 [[files]]
+file = "config/byg/config_versions.json5"
+hash = "37fb9f2598afdf6c72a8c447b22aedfda944440977ff7e7768e9866c04c4b50d"
+
+[[files]]
 file = "config/defaultoptions/extra/journeymap/config/5.9/journeymap.core.config"
 hash = "72355a0c44f5034ef841c9344c344782bd08ad312a2e3727bcecd560a6724928"
 
