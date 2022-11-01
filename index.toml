@@ -45,6 +45,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "cf4dacea9a70d2041dbca9ddb20d0b1709b2e88e934e3563d263e61f332bda5e"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "de3c53a3a43a6e844c02de4089a44f4fe2061919315f6521f5a35a5780103433"
+
+[[files]]
 file = "config/immersive_portals_fabric.json"
 hash = "7d4b0e62197bf7b8c0cdb24acfe4b1742e4e7814d0da33fb18d96698a6292189"
 
