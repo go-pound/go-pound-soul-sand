@@ -94,7 +94,6 @@ Most shader packs are heavily customizable. Use the "Shader Pack Settings…" bu
 
 ### Performance
 
-* [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) improves chunk loading and unloading performance.
 * [Debugify](https://modrinth.com/mod/debugify) squashes bugs reported on Mojang's own bug tracker that have yet to be fixed in the vanilla game.
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe) improves performance of [block entities](https://minecraft.fandom.com/wiki/Block_entity), such as signs, chests and beds.
 * [EntityCulling](https://modrinth.com/mod/entityculling) further improves block entity performance using path tracing to determine which entities are actually visible to you.
