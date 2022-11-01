@@ -74,7 +74,6 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [JourneyMap](https://modrinth.com/mod/journeymap) adds a highly customizable in-game map.
 * [Mod Menu](https://modrinth.com/mod/modmenu) adds a "Mods" button to the game's main menu that allows you to view and configure installed mods.
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) enhances the vanilla RMB item dragging mechanic to make it more useful, adds two new LMB dragging mechanics, and the ability to quickly move items between inventories using your scroll wheel.
-* [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) adds material-accurate footstep sounds.
 * [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) is a resource pack that adds variations to break up the vanilla game's repetitive textures. It also makes leaves bushy! If you prefer the vanilla look, you can disable the resource pack in the game options.
 * [Toast Manager](https://www.curseforge.com/minecraft/mc-mods/toast-manager) disables the tutorial and recipe toast notifications that you probably no longer need to guide you through the game. (But you can re-enable them in the mod's settings screen if you wish.)
 * [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) adds methods of connecting chests together with a single, searchable inventory interface.
