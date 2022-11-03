@@ -302,6 +302,11 @@ hash = "928049dc37b7b41a8d7cadf9977d183527c74744f9dce884c9c04a76b3276832"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "8a85d7c644d7fd6bf1d033514b92262949b0f651f673cc0f84b9af2c28accc78"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
 metafile = true
@@ -389,6 +394,16 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "c1a5721b2ff6389a10c8f2ab592ef8836ff6b60a44e6a95f9140510962d04574"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "13a87b21bb54900af31364fed22b2c69a178ffaa490d5f6bb84bbf637df25077"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "b1af4eefa1a2323bcfabb94592712b34ef3088098e8e26086ff48abe8cf0baf9"
 metafile = true
 
 [[files]]

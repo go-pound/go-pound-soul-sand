@@ -78,6 +78,7 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [TrashSlot](https://modrinth.com/mod/trashslot) adds a trash slot to your inventory, allowing you to quickly and easily dispose of unwanted items.
 * [Universal Graves](https://modrinth.com/mod/universal-graves) sticks your inventory and XP in a gravestone, complete with your head on it, when you die.
 * [WTHIT](https://modrinth.com/mod/wthit) (What the Hell is That?) adds an optional hint to your in-game UI that shows the name and other useful details of the block or mob you're looking at.
+* [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) and [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) provide an in-game map with custom waypoints, player and entity markers, and many more features.
 * [Zoomify](https://modrinth.com/mod/zoomify) adds a highly-configurable zoom key (<kbd>C</kbd> by default) for all you zoomers out there.
 
 ### Shaders
