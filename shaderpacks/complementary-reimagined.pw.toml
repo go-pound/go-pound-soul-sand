@@ -1,7 +1,7 @@
 name = "complementary-reimagined"
-filename = "ComplementaryReimagined_r1.3.zip"
+filename = "ComplementaryReimagined_r1.3.2.zip"
 
 [download]
-url = "https://s3.amazonaws.com/minecraft/shader-packs/ComplementaryReimagined_r1.3.zip"
+url = "https://s3.amazonaws.com/minecraft/shader-packs/ComplementaryReimagined_r1.3.2.zip"
 hash-format = "sha1"
-hash = "077c85209fedd3a17bcb6ea9e5191416b7a5a977"
+hash = "b10a0a11a01691cf7a6f283ddc8fbf59ee4b0bf0"
