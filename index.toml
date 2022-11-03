@@ -13,20 +13,12 @@ file = "config/byg/config_versions.json5"
 hash = "37fb9f2598afdf6c72a8c447b22aedfda944440977ff7e7768e9866c04c4b50d"
 
 [[files]]
-file = "config/defaultoptions/extra/journeymap/config/5.9/journeymap.core.config"
-hash = "72355a0c44f5034ef841c9344c344782bd08ad312a2e3727bcecd560a6724928"
+file = "config/defaultoptions/extra/config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "6e7b2c036418019201218a45743f167b0d82ff31aa20270141e584938a2e3767"
 
 [[files]]
-file = "config/defaultoptions/extra/journeymap/config/5.9/journeymap.fullmap.config"
-hash = "039d36c39e0bc758ffe9095f1b2498c53b00e61e48ab8d57952f401a31fc6958"
-
-[[files]]
-file = "config/defaultoptions/extra/journeymap/config/5.9/journeymap.minimap.config"
-hash = "41b77763e5e670afe46d54b9bdb52398f442251d1f5b558f7c64075518ef0926"
-
-[[files]]
-file = "config/defaultoptions/extra/journeymap/config/5.9/journeymap.minimap2.config"
-hash = "5ed4dd46017e916363581e1a330fb0d62555b7024e702d09744d82f5d9e5ee72"
+file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "23277e89b413177985e9948cc0f24e6a76dbcca8ec72226a7dc7ef14b50716af"
 
 [[files]]
 file = "config/defaultoptions/extra/options.amecsapi.txt"

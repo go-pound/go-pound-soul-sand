@@ -1,0 +1,29 @@
+{
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "PROFILE_SELECTOR": {
+                "bottom": 24
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 17,
+                "top": -5
+            },
+            "SETTINGS": {
+                "horizontalOffset": 30,
+                "top": -20
+            }
+        }
+    },
+    "com.tom.storagemod.gui.StorageTerminalScreen": {
+        "ignore": true
+    },
+    "com.tom.storagemod.gui.StorageTerminalMenu": {
+        "ignore": true
+    },
+    "com.tom.storagemod.gui.CraftingTerminalScreen": {
+        "ignore": true
+    },
+    "com.tom.storagemod.gui.CraftingTerminalMenu": {
+        "ignore": true
+    }
+}
