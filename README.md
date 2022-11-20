@@ -31,6 +31,18 @@ Go Pound Soul Sand is distributed as a self-updating [Prism Launcher](https://pr
 
 Here are the major, game-changing mods included in the pack. For an exhaustive list, including dependencies and version numbers, see the `*.pw.toml` metadata files in the [`mods` folder](mods).
 
+### Create
+
+Go Pound Soul Sand is built around [Create](https://modrinth.com/mod/create-fabric). Create adds a variety of blocks and tools with which you can build mechanical contraptions to automate and decorate your world—think conveyer belts, steam engines, mechanical presses, automated train networks, and much more. To get an idea of what's possible with Create, check out its trailer:
+
+[![Watch "This is Create" on YouTube](images/create-mod-trailer-thumbnail.jpg)](https://www.youtube.com/watch?v=rR8W-f9YhYA)
+
+Create features interactive, in-game documentation using a system called "Ponder". To try it out, open up your inventory and filter it to Create's blocks and items by typing `@create` into the search bar. Find a block or item with "Hold [w] to ponder" in its tooltip to view its animated tutorial:
+
+![Pondering the Mechanical Press](images/create-mod-pondering.jpg)
+
+There's also lots of educational Create content on YouTube!
+
 ### New content
 
 * [Auditory](https://modrinth.com/mod/auditory) adds unique block placement sounds.
