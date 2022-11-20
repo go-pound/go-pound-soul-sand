@@ -4,6 +4,15 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre2+1.19.2...main
+
+### Compatibility
+
+* Minecraft 1.19.2
+* Fabric 0.14.10
+
+## 1.0.0-pre3+1.19.2
+
 * Bumped Inventory Profiles Next to [1.8.5](https://modrinth.com/mod/inventory-profiles-next/version/fabric-1.19.2-1.8.5).
 * Bumped Iris to [1.4.2](https://modrinth.com/mod/iris/version/1.19.x-v1.4.2).
 * Bumped Debugify to [2.8.0](https://modrinth.com/mod/debugify/version/2.8.0).
@@ -24,7 +33,7 @@ If you commit changes, please add release notes here!
 * Bumped Towns and Towers to [1.10](https://modrinth.com/mod/towns-and-towers/version/1.10-FABRIC).
 * Bumped Traveler's Backpack to [8.2.7](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric/files/4081454).
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre2+1.19.2...main
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre2+1.19.2...1.0.0-pre3+1.19.2
 
 ### Compatibility
 
