@@ -60,7 +60,7 @@ There's also lots of educational Create content on YouTube!
 * [Oh the Biomes You'll Go](https://modrinth.com/mod/biomesyougo) adds a large variety of realistic and fantastical biomes to the world.
 * [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) includes lots of small additions in the spirit of the vanilla game—jars, signposts, faucets, weather vanes, sconces, lights, and other decoration and automation blocks. Check out [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki) for full documentation.
 * [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) adds methods of connecting chests together with a single, searchable inventory interface.
-* [Towns and Towers](https://modrinth.com/mod/towns-and-towers-structure-add-on) adds new villages, pillager outposts, and other structures to the world.
+* [Towns and Towers](https://modrinth.com/mod/towns-and-towers) adds new villages, pillager outposts, and other structures to the world.
 * [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric) adds customizable backpacks for adventurers!
 * [William Wythers' Overhauled Overworld](https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld) adds over 200 new unique biomes, in addition to the ones already added by Oh the Biomes You'll Go.
 * [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric) completely overhauls vanilla desert temples, making them bigger and more complex.

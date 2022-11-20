@@ -349,8 +349,8 @@ hash = "4d817fb45630a8ea31f6f37ea93eacfdfd30cc8281f8cf4f93a039da4cea988e"
 metafile = true
 
 [[files]]
-file = "mods/towns-and-towers-structure-add-on.pw.toml"
-hash = "4aeaa40b9f4bcb1dc79498cf0b4d9b88ff3fedf374a16177e338e08dc88a94d0"
+file = "mods/towns-and-towers.pw.toml"
+hash = "5b6c7dd7ab9a6be4d52d29983de2c9982650e83c3c05389c6f0ae59c7c3cfa90"
 metafile = true
 
 [[files]]
