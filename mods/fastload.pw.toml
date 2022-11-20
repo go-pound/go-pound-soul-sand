@@ -1,13 +1,13 @@
 name = "Fastload"
-filename = "Fastload-1.2.0.jar"
+filename = "Fastload+1.19.2-2.3.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kCpssoSb/versions/1uyZI4Sv/Fastload-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/kCpssoSb/versions/LtO049ip/Fastload%2B1.19.2-2.3.5.jar"
 hash-format = "sha1"
-hash = "762ef120fe4c0249146b5d3c90c3667dbb9f63b4"
+hash = "02c3dca78a67982a77f003c73d1b701ffcb64948"
 
 [update]
 [update.modrinth]
 mod-id = "kCpssoSb"
-version = "1uyZI4Sv"
+version = "LtO049ip"
