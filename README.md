@@ -131,6 +131,8 @@ To add mods to the pack, use [packwiz's install commands](https://packwiz.infra.
 packwiz modrinth install https://modrinth.com/mod/fabric-api/version/9nx74dYD
 ```
 
+If you commit changes, please add release notes to [the changelog](/CHANGELOG.md).
+
 ## Versioning
 
 Go Pound Soul Sand is [semantically versioned](https://semver.org). The [build metadata field](https://semver.org/#spec-item-10) is used to denote the compatible version of Minecraft. For example:
