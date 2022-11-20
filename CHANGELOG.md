@@ -22,6 +22,7 @@ If you commit changes, please add release notes here!
 * Bumped Immersive Portals to [2.3.1](https://modrinth.com/mod/immersiveportals/version/2.3.1-1.19.2).
 * Bumped Supplementaries to [2.2.21](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/4100718).
 * Bumped Towns and Towers to [1.10](https://modrinth.com/mod/towns-and-towers/version/1.10-FABRIC).
+* Bumped Traveler's Backpack to [8.2.7](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric/files/4081454).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre2+1.19.2...main
 
