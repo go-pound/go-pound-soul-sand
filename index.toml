@@ -18,7 +18,7 @@ hash = "6e7b2c036418019201218a45743f167b0d82ff31aa20270141e584938a2e3767"
 
 [[files]]
 file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "23277e89b413177985e9948cc0f24e6a76dbcca8ec72226a7dc7ef14b50716af"
+hash = "31f3ddbfb0fcc47c7aab6831f084057099a841d9a2345c56cc25f7ede515d461"
 
 [[files]]
 file = "config/defaultoptions/extra/options.amecsapi.txt"
