@@ -17,6 +17,7 @@ If you commit changes, please add release notes here!
 * Bumped Auditory to [0.0.4](https://modrinth.com/mod/auditory/version/0.0.4).
 * Bumped Better Nether to [7.1.2](https://modrinth.com/mod/betternether/version/7.1.2).
 * Bumped Connectible Chains to [2.1.4](https://modrinth.com/mod/connectible_chains/version/v2.1.4+1.19.2).
+* Bumped Dynamic Surroundings to [0.1.1](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric/version/0.1.1).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre2+1.19.2...main
 
