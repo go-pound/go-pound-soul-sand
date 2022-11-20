@@ -10,6 +10,7 @@ If you commit changes, please add release notes here!
 * Bumped Enhanced Block Entities to [0.7.2](https://modrinth.com/mod/ebe/version/0.7.2+1.19.2).
 * Bumped Fastload to [2.3.5](https://modrinth.com/mod/fastload/version/1.19.2.fabric.1.3.5). (The Modrinth release is erroneously labeled as 1.3.5.)
 * Bumped ImmediatelyFast to [1.0.4](https://modrinth.com/mod/immediatelyfast/version/1.0.4).
+* Bumped Lithium to [0.10.2](https://modrinth.com/mod/lithium/version/mc1.19.2-0.10.2).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre2+1.19.2...main
 
