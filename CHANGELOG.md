@@ -14,6 +14,7 @@ If you commit changes, please add release notes here!
 * Bumped EMI to [0.4.2](https://modrinth.com/mod/emi/version/0.4.2+1.19).
 * Bumped Universal Graves to [2.1.3](https://modrinth.com/mod/universal-graves/version/2.1.3+1.19.2).
 * Bumped WTHIT to [5.13.4](https://modrinth.com/mod/wthit/version/fabric-5.13.4).
+* Bumped Auditory to [0.0.4](https://modrinth.com/mod/auditory/version/0.0.4).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre2+1.19.2...main
 
