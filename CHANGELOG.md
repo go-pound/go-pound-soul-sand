@@ -9,6 +9,7 @@ If you commit changes, please add release notes here!
 * Bumped Debugify to [2.8.0](https://modrinth.com/mod/debugify/version/2.8.0).
 * Bumped Enhanced Block Entities to [0.7.2](https://modrinth.com/mod/ebe/version/0.7.2+1.19.2).
 * Bumped Fastload to [2.3.5](https://modrinth.com/mod/fastload/version/1.19.2.fabric.1.3.5). (The Modrinth release is erroneously labeled as 1.3.5.)
+* Bumped ImmediatelyFast to [1.0.4](https://modrinth.com/mod/immediatelyfast/version/1.0.4).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre2+1.19.2...main
 
