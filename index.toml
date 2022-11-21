@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "5a9808e1125ab6e1bd3b5b347b26342c8fdb4845a2b6a494bcef21d4881504e6"
+hash = "cb26574a1fa20ea279b722a7dab37ee96e8946f693242b2d4096c145f80802b6"
 metafile = true
 
 [[files]]

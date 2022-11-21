@@ -4,6 +4,8 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+* Bumped BCLib to [2.1.3](https://modrinth.com/mod/bclib/version/2.1.3) to fix compatibility with Better Nether.
+
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre2+1.19.2...main
 
 ### Compatibility
