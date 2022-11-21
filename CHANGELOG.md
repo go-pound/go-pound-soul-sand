@@ -4,10 +4,21 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+* TBD
+
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre4+1.19.2...main
+
+### Compatibility
+
+* Minecraft 1.19.2
+* Fabric 0.14.10
+
+## 1.0.0-pre4+1.19.2
+
 * Bumped BCLib to [2.1.3](https://modrinth.com/mod/bclib/version/2.1.3) to fix compatibility with Better Nether 7.1.2.
 * Bumped Moonlight Lib to [2.1.10](https://www.curseforge.com/minecraft/mc-mods/selene/files/4096608) to fix compatibility with Supplementaries 2.2.21.
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre2+1.19.2...main
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre3+1.19.2...v1.0.0-pre4+1.19.2
 
 ### Compatibility
 
