@@ -6,6 +6,7 @@ Go Pound Soul Sand is Go Pound's Minecraft mod pack.
 
 1. [How to play](#how-to-play)
 1. [Mods](#mods)
+   1. [Create](#create)
    1. [New content](#new-content)
    1. [Quality of life](#quality-of-life)
    1. [Shaders](#shaders)
