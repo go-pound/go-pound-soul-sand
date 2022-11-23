@@ -77,6 +77,7 @@ There's also lots of educational Create content on YouTube!
 
 * [AdvancementInfo](https://modrinth.com/mod/advancementinfo) embiggens the advancements screen and gives you hints about what's required for each advancement. (This can be useful if, for example, you're working on a "visit every biome" advancement.)
 * [Amecs](https://modrinth.com/mod/amecs) (Alt-Meta-Escape-Control-Shift) allows you to use modifier keys in Minecraft's key bindings, so that e.g. <kbd>B</kbd> and <kbd>Shift</kbd> + <kbd>B</kbd> can be assigned to different functions. It also adds a search field to the key bindings menu.
+* [AutoRun](https://modrinth.com/mod/autorun) adds a key bind that toggles running, traveling in boats, and riding animals. Great for long distance travel! On a fresh installation of Go Pound Soul Sand, it's unbound by default.
 * [Better Animations Collection](https://modrinth.com/mod/better-animations-collection) improves vanilla mobs with more detailed animations and subtle effects.
 * [BetterF3](https://modrinth.com/mod/betterf3) replaces the default debug HUD (<kbd>F3</kbd> by default) with a more readable and customizable version.
 * [Continuity](https://modrinth.com/mod/continuity) removes the frames between adjacent glass blocks to create the appearance of a single unbroken pane. If you prefer vanilla-style glass, you can disable Continuity's resource pack in the game options.

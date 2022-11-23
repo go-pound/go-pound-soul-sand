@@ -4,7 +4,7 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
-* TBD
+* Added [AutoRun](https://modrinth.com/mod/autorun) 0.5.0.
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre5+1.19.2...main
 

@@ -26,7 +26,7 @@ hash = "22d6f40f960215229ea1da076c44354dbe0515c4a1eb99af2b63e9fdd6a61b9c"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "75da86d70e4337ab5d202c9646cb979056e68a157582e2fdce2201d5c8df47fb"
+hash = "d7e8ffc3c3ff89658f678645ca4eba42b0f92728682b821c27f88d5d727529ce"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -66,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/auditory.pw.toml"
 hash = "a086399e727b882a3ee432a3154a6b6b8b81d780e89ae860b040365507af56e7"
+metafile = true
+
+[[files]]
+file = "mods/autorun.pw.toml"
+hash = "b294f67ca50e4cccc40a75b3314f50ef3e8aadc3e7300049a947e26a90d8ae06"
 metafile = true
 
 [[files]]
