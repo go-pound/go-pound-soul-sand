@@ -4,10 +4,16 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+* TBD
+
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre5+1.19.2...main
+
+## 1.0.0-pre5+1.19.2
+
 * Added [Time & Wind](https://www.curseforge.com/minecraft/mc-mods/time-wind) 1.4.3.
 * Added [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) 2.1.2.
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre4+1.19.2...main
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre4+1.19.2...v1.0.0-pre5+1.19.2
 
 ### Compatibility
 
