@@ -339,6 +339,11 @@ hash = "4176c70e43571043df091b27c67ac56c694596c57d52740d52f98053cff3bcde"
 metafile = true
 
 [[files]]
+file = "mods/time-wind.pw.toml"
+hash = "9047965bc4ec80b16dee8bf33c23775c49fb5f8692ebfabece0b6533be0006ca"
+metafile = true
+
+[[files]]
 file = "mods/toast-manager.pw.toml"
 hash = "c5a56162462c2e4905ced17158a86439054453448b9bba8d1b37daca90acc3a3"
 metafile = true
