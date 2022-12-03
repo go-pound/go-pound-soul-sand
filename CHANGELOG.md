@@ -7,6 +7,7 @@ If you commit changes, please add release notes here!
 * Added [AutoRun](https://modrinth.com/mod/autorun) 0.5.0.
 * Bumped Iris to [1.4.3](https://modrinth.com/mod/iris/version/1.19.2-v1.4.3).
 * Bumped Create to [0.5.0g](https://modrinth.com/mod/create-fabric/version/ZOucvJwc).
+* Bumped William Wythers' Overhauled Overworld to [3.1.9](https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld/files/4127867).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre5+1.19.2...main
 
