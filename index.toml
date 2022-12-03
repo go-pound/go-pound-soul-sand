@@ -30,7 +30,7 @@ hash = "d7e8ffc3c3ff89658f678645ca4eba42b0f92728682b821c27f88d5d727529ce"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "f8fd50d8e6e5ea0892287971c10d4313d48f7d523fa62b0c5b6368c4ec2ffe9d"
+hash = "ced64661063a4e242c124671a754bdcd2a338d9df898a3acba9a8e7cca45f486"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -476,6 +476,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "f461c149788f81fdc37051fc67a8496478b685d96258c98e477f24e696294e78"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ultimate-survival-world.pw.toml"
+hash = "a587f4c26ef1be4caf12059c1648b94a843ccb3825f5094812034c75a7b4ee87"
 metafile = true
 
 [[files]]

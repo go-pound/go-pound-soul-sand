@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","Supplementaries Generated Pack","continuity/default","continuity/glass_pane_culling_fix","file/Stay_True_1.19.zip"]
+resourcePacks:["vanilla","Fabric Mods","Supplementaries Generated Pack","continuity/default","continuity/glass_pane_culling_fix","file/Stay_True_1.19.zip","file/ultimate-survival-world-20221123.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
