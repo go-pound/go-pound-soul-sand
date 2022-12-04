@@ -1,0 +1,37 @@
+services:
+  caddy: # An HTTP server to serve Packwiz files locally
+    image: caddy
+    ports:
+      - '8082:80'
+    volumes:
+      - 'caddy:/data'
+      - '.:/usr/share/caddy'
+  minecraft:
+    image: itzg/minecraft-server
+    ports:
+      - '25565:25565'
+    stdin_open: true
+    tty: true
+    volumes:
+      - './tmp/server:/data'
+    environment:
+      ALLOW_FLIGHT: 'true'
+      # DEBUG: 'true' # Uncomment for verbose logs from itzg/minecraft-server
+      DIFFICULTY: hard
+      ENABLE_ROLLING_LOGS: 'true'
+      EULA: 'true'
+      FABRIC_LOADER_VERSION: '0.14.10'
+      ICON: 'https://raw.githubusercontent.com/go-pound/go-pound-soul-sand/main/images/go-pound-soul-sand-staging%4064.png'
+      LEVEL_TYPE: 'bclib:large'
+      MEMORY: '4G'
+      MODE: creative
+      MOTD: 'Go Pound Soul Sand development server'
+      OPS_FILE: https://raw.githubusercontent.com/go-pound/minecraft-allowlist/main/ops.json
+      PACKWIZ_URL: http://caddy/pack.toml
+      SPAWN_PROTECTION: 0
+      TYPE: FABRIC
+      USE_AIKAR_FLAGS: 'true'
+      VERSION: '1.19.2'
+      VIEW_DISTANCE: 16
+volumes:
+  caddy:

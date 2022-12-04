@@ -12,7 +12,8 @@ Go Pound Soul Sand is Go Pound's Minecraft mod pack.
    1. [Shaders](#shaders)
    1. [Performance](#performance)
 1. [Contributing](#contributing)
-1. [Versioning](#versioning)
+   1. [Setting up a local development environment](#setting-up-a-local-development-environment)
+   1. [Versioning](#versioning)
 1. [License](#license)
 
 ## How to play
@@ -137,7 +138,22 @@ packwiz modrinth install https://modrinth.com/mod/fabric-api/version/9nx74dYD
 
 If you commit changes, please add release notes to [the changelog](/CHANGELOG.md).
 
-## Versioning
+### Setting up a local development environment
+
+You can use [Docker Compose](https://docs.docker.com/compose/) to set up a local development environment. The included [docker-compose.yml](docker-compose.yml) will:
+
+* Start an HTTP server on port 8082 that will serve up [pack.toml](pack.toml) and other packwiz files.
+* Start a Minecraft game server on port 25565 (the game's default) using those local pack files.
+
+To start both servers, run `docker-compose up` in this repository's root directory. Minecraft server data will be written into `tmp/server` and ignored by Git. The Docker Compose file includes defaults that will be written to `server.properties`. Once the file is generated, you can customize it.
+
+To create a Prism Launcher instance that connects to your local HTTP server, import [prism-instance.zip](prism-instance.zip) to create a new instance. Right-click on the instance and select Edit > Settings > Custom commands. Change the pre-launch command to point at your local server:
+
+```sh
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar http://localhost:8082/pack.toml
+```
+
+### Versioning
 
 Go Pound Soul Sand is [semantically versioned](https://semver.org). The [build metadata field](https://semver.org/#spec-item-10) is used to denote the compatible version of Minecraft. For example:
 
