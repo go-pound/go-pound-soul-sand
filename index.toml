@@ -13,12 +13,28 @@ file = "config/byg/config_versions.json5"
 hash = "37fb9f2598afdf6c72a8c447b22aedfda944440977ff7e7768e9866c04c4b50d"
 
 [[files]]
+file = "config/defaultoptions/extra/config/immersive_portals_fabric.json"
+hash = "342f16c55cc1da4824578125cba63797b14d5c40da0585f6da17e8f3ba2bf1e9"
+
+[[files]]
 file = "config/defaultoptions/extra/config/inventoryprofilesnext/integrationHints/player-defined.json"
 hash = "6e7b2c036418019201218a45743f167b0d82ff31aa20270141e584938a2e3767"
 
 [[files]]
 file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "31f3ddbfb0fcc47c7aab6831f084057099a841d9a2345c56cc25f7ede515d461"
+
+[[files]]
+file = "config/defaultoptions/extra/config/iris.properties"
+hash = "52d1266a83c71a1948e7d41500f68884cc0c94e76a50420ecd3a9475971cd619"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaerominimap.txt"
+hash = "b3a8ec1f6fdecf5817c753f77c4f0506f0e49716ceb5ffe1c930be1c683552d0"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaeroworldmap.txt"
+hash = "0ffc0ddfda9f7ac8bbc2a372589c1085848e742415f9b593692d0d2ab881a8a0"
 
 [[files]]
 file = "config/defaultoptions/extra/options.amecsapi.txt"
