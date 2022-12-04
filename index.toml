@@ -45,8 +45,16 @@ file = "config/immersive_portals_fabric.json"
 hash = "7d4b0e62197bf7b8c0cdb24acfe4b1742e4e7814d0da33fb18d96698a6292189"
 
 [[files]]
+file = "config/terrablender.toml"
+hash = "ac9a3385180fa7677fd26df25d32bea097aaa693843c95f3fecf222ff887c2c3"
+
+[[files]]
 file = "config/universal-graves.json"
 hash = "ee137c0207dbc5bdaaf2a2a431f99de62a504db206655f6f3289c6cd763521ce"
+
+[[files]]
+file = "config/wwoo/wwoo.json5"
+hash = "8d939e5daf87f37688dd9c786ab0d43f16e4f64ba34a81e869b2488a7f56a7b8"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
