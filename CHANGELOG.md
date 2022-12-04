@@ -11,6 +11,7 @@ If you commit changes, please add release notes here!
 * Added the companion resource pack for [TrixyBlox' Ultimate Survival World](https://www.youtube.com/watch?v=dd0GmPyWKV4).
 * Added a Docker Compose file that starts a Minecraft server for easy local development. See "Setting up a local development environment" in README.md.
 * Increased biome size by tweaking William Wythers' Overhauled Overworld and TerraBlender configuration.
+* Disabled BCLib's config synchronization warnings.
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre5+1.19.2...main
 

@@ -7,14 +7,14 @@
     "showUpdateInfo [default: true]": false,
     "forceBetterXPreset [default: true]": true,
     "suppressExperimentalDialogOnLoad [default: false]": true,
-    "iAmNotTheDonorType [default: false]": false
+    "iAmNotTheDonorType [default: false]": true
   },
   "auto_sync": {
     "enabled [default: true]": true,
     "acceptConfigs [default: true]": true,
     "acceptFiles [default: true]": true,
     "acceptMods [default: true]": true,
-    "displayModInfo [default: true]": true,
+    "displayModInfo [default: true]": false,
     "debugHashes [default: false]": false
   },
   "rendering": {
