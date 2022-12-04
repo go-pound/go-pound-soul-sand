@@ -13,6 +13,8 @@ If you commit changes, please add release notes here!
 * Increased biome size by tweaking William Wythers' Overhauled Overworld and TerraBlender configuration.
 * Disabled BCLib's config synchronization warnings by default.
 * Disabled mod update notifications for Immersive Portals, Iris, and Xaero's Minimap and World Map by default.
+* Bumped Xaero's Minimap to [22.16.3](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4127323).
+* Bumped Xaero's World Map to [1.28.4](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4127339).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre5+1.19.2...main
 
