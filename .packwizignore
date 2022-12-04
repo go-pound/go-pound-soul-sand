@@ -1,7 +1,8 @@
-.DS_Store
-CHANGELOG.md
-images/
-LICENSE
-prism-instance.zip
-README.md
-tmp/
+*.DS_Store
+/CHANGELOG.md
+/docker-compose.yml
+/images
+/LICENSE
+/prism-instance.zip
+/README.md
+/tmp
