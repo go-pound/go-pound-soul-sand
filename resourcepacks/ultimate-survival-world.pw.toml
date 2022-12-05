@@ -1,7 +1,7 @@
 name = "ultimate-survival-world"
-filename = "ultimate-survival-world-20221123.zip"
+filename = "ultimate-survival-world.zip"
 
 [download]
-url = "https://s3.amazonaws.com/minecraft/resource-packs/ultimate-survival-world-20221123.zip"
+url = "https://s3.amazonaws.com/minecraft/resource-packs/ultimate-survival-world-20221204.zip"
 hash-format = "sha1"
-hash = "019713429240b4369df3daefadd85135c8217fd2"
+hash = "5bf7bf7d49ae28d22b51a94899b12ae79d822963"
