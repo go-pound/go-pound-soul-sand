@@ -136,6 +136,15 @@ To add mods to the pack, use [packwiz's install commands](https://packwiz.infra.
 packwiz modrinth install https://modrinth.com/mod/fabric-api/version/9nx74dYD
 ```
 
+Updating a mod to the latest-available release is easy:
+
+```console
+$ packwiz update farmers-delight-fabric
+Loading modpack...
+Update available: farmers-delight-fabric-1.19.X-1.3.6.jar -> farmers-delight-fabric-1.19.X-1.3.9.jar
+"Farmer's Delight [Fabric]" updated!
+```
+
 If you commit changes, please add release notes to [the changelog](/CHANGELOG.md).
 
 ### Setting up a local development environment
