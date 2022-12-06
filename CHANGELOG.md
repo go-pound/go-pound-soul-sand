@@ -15,6 +15,7 @@ If you commit changes, please add release notes here!
 * Disabled mod update notifications for Immersive Portals, Iris, and Xaero's Minimap and World Map by default.
 * Bumped Xaero's Minimap to [22.16.3](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4127323).
 * Bumped Xaero's World Map to [1.28.4](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4127339).
+* Bumped Traveler's Backpack to [8.2.8](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric/files/4134128).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre5+1.19.2...main
 
