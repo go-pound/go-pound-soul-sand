@@ -18,6 +18,7 @@ If you commit changes, please add release notes here!
 * Disabled BCLib's mod and config synchronization.
 * Bumped EMI to [0.5.0](https://modrinth.com/mod/emi/version/p9jbOqyn).
 * Bumped Fastload to [2.4.4](https://modrinth.com/mod/fastload/version/mBNst1pT).
+* Bumped ImmediatelyFast to [1.0.5](https://modrinth.com/mod/immediatelyfast/version/Lj7lpgeu).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre5+1.19.2...main
 
