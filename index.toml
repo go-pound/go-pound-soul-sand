@@ -17,6 +17,10 @@ file = "config/byg/config_versions.json5"
 hash = "37fb9f2598afdf6c72a8c447b22aedfda944440977ff7e7768e9866c04c4b50d"
 
 [[files]]
+file = "config/defaultoptions/extra/config/emi.css"
+hash = "4d381150f53c52a9987c2ce1230c3c99a92c7f82801e05a884729a437646b174"
+
+[[files]]
 file = "config/defaultoptions/extra/config/immersive_portals_fabric.json"
 hash = "342f16c55cc1da4824578125cba63797b14d5c40da0585f6da17e8f3ba2bf1e9"
 
