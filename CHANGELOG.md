@@ -19,6 +19,7 @@ If you commit changes, please add release notes here!
 * Bumped EMI to [0.5.0](https://modrinth.com/mod/emi/version/p9jbOqyn).
 * Bumped Fastload to [2.4.4](https://modrinth.com/mod/fastload/version/mBNst1pT).
 * Bumped ImmediatelyFast to [1.0.5](https://modrinth.com/mod/immediatelyfast/version/Lj7lpgeu).
+* Bumped Farmer's Delight to [1.3.9](https://modrinth.com/mod/farmers-delight-fabric/version/baQ9tohQ).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre5+1.19.2...main
 
