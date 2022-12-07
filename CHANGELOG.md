@@ -22,6 +22,7 @@ If you commit changes, please add release notes here!
 * Bumped Farmer's Delight to [1.3.9](https://modrinth.com/mod/farmers-delight-fabric/version/baQ9tohQ).
 * Disabled EMI's "append mod ID to item tooltips" option by default, because another mod already does that, and it was resulting in duplicate mod names in every tooltip. If you already have the mod pack installed, this won't be changed for you—you'll need to open EMI's settings in-game and turn it off in the "UI" section.
 * Bumped Traveler's Backpack to [8.2.9](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric/files/4139514).
+* Added [Light Overlay](https://modrinth.com/mod/light-overlay) 7.0.0.
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre5+1.19.2...main
 
