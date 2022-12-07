@@ -2,7 +2,13 @@
 
 If you commit changes, please add release notes here!
 
-## Unreleased
+## Upcoming
+
+No unreleased changes yet!
+
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
+
+## 1.0.0+1.19.2 🌟✨
 
 * Added [AutoRun](https://modrinth.com/mod/autorun) 0.5.0.
 * Bumped Iris to [1.4.3](https://modrinth.com/mod/iris/version/1.19.2-v1.4.3).
@@ -25,7 +31,7 @@ If you commit changes, please add release notes here!
 * Added [Light Overlay](https://modrinth.com/mod/light-overlay) 7.0.0.
 * Added [Quick Connect Button](https://modrinth.com/mod/quickconnectbutton) 1.2.1. There's now a "Pound It!" button on the main menu that will connect you directly to `minecraft.gopound.party`!
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre5+1.19.2...main
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0-pre5+1.19.2...v1.0.0+1.19.2
 
 ## 1.0.0-pre5+1.19.2
 
