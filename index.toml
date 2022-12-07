@@ -69,6 +69,10 @@ file = "config/immersive_portals_fabric.json"
 hash = "7d4b0e62197bf7b8c0cdb24acfe4b1742e4e7814d0da33fb18d96698a6292189"
 
 [[files]]
+file = "config/quickconnectbutton.json5"
+hash = "4aee5cb7d9534165fceb6ddf4eb671e07f17e0179da992e47c55ed3e29bc2e00"
+
+[[files]]
 file = "config/terrablender.toml"
 hash = "ac9a3385180fa7677fd26df25d32bea097aaa693843c95f3fecf222ff887c2c3"
 
