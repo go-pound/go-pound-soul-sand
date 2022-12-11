@@ -6,6 +6,7 @@ If you commit changes, please add release notes here!
 
 * Added [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) 3.0.0.
 * Bumped Iris to [1.4.5](https://modrinth.com/mod/iris/version/1.19.2-v1.4.5).
+* Bumped Tom's Simple Storage to [1.4.5](https://modrinth.com/mod/toms-storage/version/1.19-1.4.5-fabric).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
 
