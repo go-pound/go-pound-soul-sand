@@ -85,6 +85,11 @@ file = "config/wwoo/wwoo.json5"
 hash = "8d939e5daf87f37688dd9c786ab0d43f16e4f64ba34a81e869b2488a7f56a7b8"
 
 [[files]]
+file = "mods/advanced-tooltips.pw.toml"
+hash = "a4aea0e6e7d7a44517767d45e003b601d587648dc0a61ef733afaca6ded2db09"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
