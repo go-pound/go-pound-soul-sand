@@ -1,6 +1,6 @@
 name = "Go Pound Soul Sand"
 author = "Go Pound Sand"
-version = "1.0.0+1.19.2"
+version = "1.0.1+1.19.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
