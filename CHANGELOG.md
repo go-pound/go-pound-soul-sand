@@ -4,7 +4,7 @@ If you commit changes, please add release notes here!
 
 ## Upcoming
 
-No unreleased changes yet!
+* Added [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) 3.0.0.
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
 

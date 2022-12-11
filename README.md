@@ -52,6 +52,7 @@ There's also lots of educational Create content on YouTube!
 * [BetterNether](https://modrinth.com/mod/betternether) is a total redesign of the Nether.
 * [Chalk](https://modrinth.com/mod/chalk) improves your spelunking experience by adding chalk, with which you can mark blocks (such as cave walls) with arrows. You can even make the chalk glow in the dark!
 * [Connectible Chains](https://modrinth.com/mod/connectible_chains) adds decorative chains. String them between your fence posts!
+* [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) adds lots of new building blocks, like beams, palisades, corner supports, bars and panels, braziers, bonfires, and more!
 * [Diagonal Fences](https://modrinth.com/mod/diagonal-fences) does what it says on the tin.
 * [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) enhances background sounds and adds subtle visual effects, like particle effects on waterfalls.
 * [Earth2Java](https://modrinth.com/mod/earth2java) adds the mobs from Mojang's [Minecraft Earth](https://minecraft.fandom.com/wiki/Minecraft_Earth).
