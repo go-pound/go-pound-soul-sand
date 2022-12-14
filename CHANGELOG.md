@@ -4,7 +4,7 @@ If you commit changes, please add release notes here!
 
 ## Upcoming
 
-No changes yet!
+* Bumped Supplementaries to [2.2.27](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/4172002).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
 
