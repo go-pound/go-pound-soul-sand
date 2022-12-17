@@ -10,6 +10,8 @@ If you commit changes, please add release notes here!
 * Bumped Xaero's World Map to [1.28.6](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4181119).
 * Bumped Xaero's Minimap to [22.17.0](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4181107).
 * Bumped Open Parties and Claims to [0.16.5](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims/files/4159960).
+* Bumped Inventory Profiles Next to [1.9.0](https://modrinth.com/mod/inventory-profiles-next/version/fabric-1.19.2-1.9.0).
+* Bumped libIPN to [2.0.0](https://modrinth.com/mod/libipn/version/fabric-1.19.2-2.0.0).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
 
