@@ -6,6 +6,7 @@ If you commit changes, please add release notes here!
 
 * Bumped Supplementaries to [2.2.27](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/4172002).
 * Bumped Ecologics to [2.1.11](https://www.curseforge.com/minecraft/mc-mods/ecologics/files/4171284).
+* Bumped Moonlight Lib to [2.1.19](https://www.curseforge.com/minecraft/mc-mods/selene/files/4174745).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
 
