@@ -194,11 +194,6 @@ hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true

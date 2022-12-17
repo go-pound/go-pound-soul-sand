@@ -13,7 +13,6 @@ If you commit changes, please add release notes here!
 * Bumped Inventory Profiles Next to [1.9.0](https://modrinth.com/mod/inventory-profiles-next/version/fabric-1.19.2-1.9.0).
 * Bumped libIPN to [2.0.0](https://modrinth.com/mod/libipn/version/fabric-1.19.2-2.0.0).
 * Bumped EMI to [0.5.2](https://modrinth.com/mod/emi/version/e8yMWd29).
-* Added [DashLoader](https://modrinth.com/mod/dashloader) 4.1.3.
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
 
