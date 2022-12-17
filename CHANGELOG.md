@@ -9,6 +9,7 @@ If you commit changes, please add release notes here!
 * Bumped Moonlight Lib to [2.1.19](https://www.curseforge.com/minecraft/mc-mods/selene/files/4174745).
 * Bumped Xaero's World Map to [1.28.6](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4181119).
 * Bumped Xaero's Minimap to [22.17.0](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4181107).
+* Bumped Open Parties and Claims to [0.16.5](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims/files/4159960).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
 
