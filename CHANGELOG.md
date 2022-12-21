@@ -21,6 +21,7 @@ If you commit changes, please add release notes here!
   * Traveler's Backpack > Swap Tool or Change Hose Mode is <kbd>shift</kbd> + <kbd>z</kbd> to avoid conflicting with Xaero's Minimap > Enlarge Minimap (<kbd>z</kbd>)
   * Xaero's Minimap > New Waypoint is <kbd>shift</kbd> + <kbd>b</kbd> to avoid conflicting with Traveler's Backpack > Backpack Inventory (<kbd>b</kbd>)
 * Added [Easy Emerald Tools](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) 1.4.38.
+* Added [Freecam](https://www.curseforge.com/minecraft/mc-mods/free-cam) 1.1.6.
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
 

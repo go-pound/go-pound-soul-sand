@@ -88,6 +88,7 @@ There's also lots of educational Create content on YouTube!
 * [Couplings](https://modrinth.com/mod/couplings) opens connected doors, fence gates and trap doors. Finally!
 * [EMI](https://modrinth.com/mod/emi) is an improved in-game recipe viewer with a searchable database of blocks and items.
 * [FallingTree](https://modrinth.com/mod/fallingtree) speeds up your ruthless deforestation by adding a "Chopping" axe enchantment that enables you to fell an entire tree by breaking one of its logs. (Damage to your axe and the time it takes to break the log scales with the size of the tree, so you're only gaining the convenience of not needing to climb the tree to chop it down.)
+* [Freecam](https://www.curseforge.com/minecraft/mc-mods/free-cam) allows you to press <kbd>F4</kbd> to enter a spectator-like "no-clip" camera mode, which can be useful for quickly inspecting builds and exploring the world. How you use it, and whether it amounts to cheating, is up to you.
 * [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) adds sorting buttons to inventory screens, helps you move items between inventories, can automatically replace broken tools, and more.
 * [Iris](https://modrinth.com/mod/iris) adds support for third-party shader packs, such as [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders).
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) makes light-emitting items like torches affect the world when they're held in your hand (or dropped on the ground, or in a fox's mouth).

@@ -278,6 +278,11 @@ hash = "215fb8df4474c3893d7ef048065ec87aa02b9e956ce2b8b6f0306ad8943da8b1"
 metafile = true
 
 [[files]]
+file = "mods/free-cam.pw.toml"
+hash = "61d1db1f6384b49537a92039174156a07413e3339ac33d36de289291106080ca"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ec0872fe9f5687fcf1d0d65d171bef0b92afe07a4e6b89b10a08cd8654563d82"
 metafile = true
