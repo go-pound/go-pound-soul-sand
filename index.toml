@@ -383,6 +383,11 @@ hash = "811b544eaa99b1882faa2511d8b69dd6e18edbc0b22cb6a6fa036a0dea089d0f"
 metafile = true
 
 [[files]]
+file = "mods/simple-emerald-tools-fabric.pw.toml"
+hash = "5537f6d6fa7fe33f466202a80c6d37b0ce45a97c2bd900be2c7fbb4b48c2fe1d"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Easy Emerald Tools & More [FABRIC]"
+filename = "EmeraldTools-Fabric-1.19.2-1.4.38.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b62d9634e81f0ede37757ce795481ddb36cea160"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4070051
+project-id = 375954
