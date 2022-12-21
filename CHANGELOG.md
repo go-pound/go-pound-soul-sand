@@ -13,6 +13,13 @@ If you commit changes, please add release notes here!
 * Bumped Inventory Profiles Next to [1.9.0](https://modrinth.com/mod/inventory-profiles-next/version/fabric-1.19.2-1.9.0).
 * Bumped libIPN to [2.0.0](https://modrinth.com/mod/libipn/version/fabric-1.19.2-2.0.0).
 * Bumped EMI to [0.5.2](https://modrinth.com/mod/emi/version/e8yMWd29).
+* Replace JourneyMap default key bindings with Xaero's Minimap and World Map bindings.
+* Resolve conflicts in the default key bindings:
+  * Gameplay > [Tom's Simple Storage] Open Terminal is <kbd>shift</kbd> + <kbd>t</kbd> to avoid conflicting with Multiplayer > Open Chat (<kbd>t</kbd>)
+  * TrashSlot > Delete All Items of Type is <kbd>shift</kbd> + <kbd>delete</kbd>
+  * TrashSlot > Show/Hide TrashSlot is <kbd>alt</kbd> + <kbd>t</kbd> to avoid conflicting with Multiplayer > Open Chat (<kbd>t</kbd>)
+  * Traveler's Backpack > Swap Tool or Change Hose Mode is <kbd>shift</kbd> + <kbd>z</kbd> to avoid conflicting with Xaero's Minimap > Enlarge Minimap (<kbd>z</kbd>)
+  * Xaero's Minimap > New Waypoint is <kbd>shift</kbd> + <kbd>b</kbd> to avoid conflicting with Traveler's Backpack > Backpack Inventory (<kbd>b</kbd>)
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
 

@@ -166,6 +166,15 @@ To create a Prism Launcher instance that connects to your local HTTP server, imp
 "$INST_JAVA" -jar packwiz-installer-bootstrap.jar http://localhost:8082/pack.toml
 ```
 
+### Key bindings
+
+If you add a mod with key bindings, be sure to update [Default Options](https://modrinth.com/mod/default-options)' and [Amecs](https://modrinth.com/mod/amecs)' configurations to include those new bindings:
+
+1. Address any key conflicts in the in-game key bindings menu.
+1. In-game, use the command `/defaultoptions saveKeys` to dump your key bindings to `.minecraft/config/defaultoptions/keybindings.txt`.
+1. Update `config/defaultoptions/keybindings.txt`, `config/defaultoptions/extra/options.amecsapi.txt` and `knownkeys.txt` in this repository to match the versions in your Minecraft game directory.
+1. Run `packwiz refresh` to recalculate the file hashes in `index.toml`.
+
 ### Versioning
 
 Go Pound Soul Sand is [semantically versioned](https://semver.org). The [build metadata field](https://semver.org/#spec-item-10) is used to denote the compatible version of Minecraft. For example:

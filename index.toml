@@ -46,11 +46,11 @@ hash = "0ffc0ddfda9f7ac8bbc2a372589c1085848e742415f9b593692d0d2ab881a8a0"
 
 [[files]]
 file = "config/defaultoptions/extra/options.amecsapi.txt"
-hash = "22d6f40f960215229ea1da076c44354dbe0515c4a1eb99af2b63e9fdd6a61b9c"
+hash = "7f1dac822f8b3d94b0b469d0ab6791677e2f09038f6bf8c122de1b71d39b9a53"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "d7e8ffc3c3ff89658f678645ca4eba42b0f92728682b821c27f88d5d727529ce"
+hash = "2493865e0d311b7bf0b70227d2b2e6686c50b5f856ed2ea74d533b140e884302"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -87,6 +87,10 @@ hash = "ee137c0207dbc5bdaaf2a2a431f99de62a504db206655f6f3289c6cd763521ce"
 [[files]]
 file = "config/wwoo/wwoo.json5"
 hash = "8d939e5daf87f37688dd9c786ab0d43f16e4f64ba34a81e869b2488a7f56a7b8"
+
+[[files]]
+file = "knownkeys.txt"
+hash = "d25ad207340d3082e477782319f5971d38bdb081fafc9dc010801a8f357059b5"
 
 [[files]]
 file = "mods/advanced-tooltips.pw.toml"
@@ -201,11 +205,6 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "8c82e927eea2e4f9dc1e5377d21c4bf84af36714dd0b10f44ce932c18f80c9b6"
 metafile = true
 
 [[files]]
