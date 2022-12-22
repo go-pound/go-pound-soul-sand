@@ -21,7 +21,7 @@ If you commit changes, please add release notes here!
   * Traveler's Backpack > Swap Tool or Change Hose Mode is <kbd>shift</kbd> + <kbd>z</kbd> to avoid conflicting with Xaero's Minimap > Enlarge Minimap (<kbd>z</kbd>)
   * Xaero's Minimap > New Waypoint is <kbd>shift</kbd> + <kbd>b</kbd> to avoid conflicting with Traveler's Backpack > Backpack Inventory (<kbd>b</kbd>)
 * Added [Easy Emerald Tools](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) 1.4.38.
-* Added [Freecam](https://www.curseforge.com/minecraft/mc-mods/free-cam) 1.1.6.
+* Added [Freecam](https://www.curseforge.com/minecraft/mc-mods/free-cam) 1.1.6. Use <kbd>F4</kbd> to toggle the free camera.
 * Enabled Traveler's Backpack Curios integration. Equip a backpack by hovering over your chest armor slot to make Curios' backpack slot appear.
 * Tweak Inventory Profiles Next defaults to disable its sorting buttons when viewing a Traveler's Backpack inventory (the backpack has its own sorting buttons), allow picked-up items to use hotbar slots as in vanilla Minecraft, and allow unenchanted tools under 500 durability to break (so unenchanted wood, stone and iron picks will be used up as usual, but any enchanted or high-tier tools will be saved from accidental destruction). If you already have the mod pack installed, the latter two changes won't be picked up automatically. To set them yourself, go to Mods > Inventory Profiles Next > Configure, and set:
   * Locked Slots > Pick Items Directly into the Inventory to **false**

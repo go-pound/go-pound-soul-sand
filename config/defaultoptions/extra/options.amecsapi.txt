@@ -51,6 +51,8 @@ key_modifiers_create.keyinfo.toolbelt:0,0,0
 key_modifiers_dsurround.text.keybind.individualSoundConfig:0,0,0
 key_modifiers_dsurround.text.keybind.diagnosticHud:0,0,0
 key_modifiers_key.entityculling.toggle:0,0,0
+key_modifiers_key.freecam.toggle:0,0,0
+key_modifiers_key.freecam.playerControl:0,0,0
 key_modifiers_key.lightoverlay.enable_overlay:0,0,0
 key_modifiers_key.modmenu.open_menu:0,0,0
 key_modifiers_gui.xaero_pac_key_open_menu:0,0,0

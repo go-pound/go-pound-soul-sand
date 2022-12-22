@@ -100,3 +100,5 @@ gui.xaero_map_zoom_out
 gui.xaero_quick_confirm
 key.lightoverlay.enable_overlay
 key.toms_storage.open_terminal
+key.freecam.toggle
+key.freecam.playerControl

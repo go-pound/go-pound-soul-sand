@@ -42,11 +42,11 @@ hash = "0ffc0ddfda9f7ac8bbc2a372589c1085848e742415f9b593692d0d2ab881a8a0"
 
 [[files]]
 file = "config/defaultoptions/extra/options.amecsapi.txt"
-hash = "7f1dac822f8b3d94b0b469d0ab6791677e2f09038f6bf8c122de1b71d39b9a53"
+hash = "26e3022cbe70f17186597f930e824407983233f117d4eeb2d79db3bbbb0b2a0f"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "2493865e0d311b7bf0b70227d2b2e6686c50b5f856ed2ea74d533b140e884302"
+hash = "bbd3e9f00a3763dceb48385d646f123aaf9f5317e818729915afffa4e8023216"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -94,7 +94,7 @@ hash = "8d939e5daf87f37688dd9c786ab0d43f16e4f64ba34a81e869b2488a7f56a7b8"
 
 [[files]]
 file = "knownkeys.txt"
-hash = "d25ad207340d3082e477782319f5971d38bdb081fafc9dc010801a8f357059b5"
+hash = "1cd2209b99aba201c551c2e5c99b7afc1733945d6688d5fc8189faf13000e3f7"
 
 [[files]]
 file = "mods/advanced-tooltips.pw.toml"
