@@ -81,6 +81,10 @@ file = "config/time-and-wind/config.json"
 hash = "e7fd6688bad805ccff5b5826ad654c5fceb809a06bd95c23fc03f57c4f46a833"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "fa4467e00390d6c8c7fcbf6447e9714c57e8af7f13f77ef0c7e87ef95997f0dc"
+
+[[files]]
 file = "config/universal-graves.json"
 hash = "ee137c0207dbc5bdaaf2a2a431f99de62a504db206655f6f3289c6cd763521ce"
 
