@@ -4,6 +4,12 @@ If you commit changes, please add release notes here!
 
 ## Upcoming
 
+Nothing new added yet!
+
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.2+1.19.2...main
+
+## 1.0.2+1.19.2
+
 * Bumped Supplementaries to [2.2.27](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/4172002).
 * Bumped Ecologics to [2.1.11](https://www.curseforge.com/minecraft/mc-mods/ecologics/files/4171284).
 * Bumped Moonlight Lib to [2.1.19](https://www.curseforge.com/minecraft/mc-mods/selene/files/4174745).
@@ -27,7 +33,7 @@ If you commit changes, please add release notes here!
   * Locked Slots > Pick Items Directly into the Inventory to **false**
   * Auto Refill > Allow Some Non Enchanted Gear to Break to **true**
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.1+1.19.2...v1.0.2+1.19.2
 
 ## 1.0.1+1.19.2
 
