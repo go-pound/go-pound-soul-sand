@@ -212,6 +212,11 @@ hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "8c82e927eea2e4f9dc1e5377d21c4bf84af36714dd0b10f44ce932c18f80c9b6"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "4f15070fd65003a7f2e99e7b622dfca850f33826a562fdb9f47a3e90653861c6"
 metafile = true
