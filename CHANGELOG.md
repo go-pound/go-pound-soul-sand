@@ -23,6 +23,9 @@ If you commit changes, please add release notes here!
 * Added [Easy Emerald Tools](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) 1.4.38.
 * Added [Freecam](https://www.curseforge.com/minecraft/mc-mods/free-cam) 1.1.6.
 * Enabled Traveler's Backpack Curios integration. Equip a backpack by hovering over your chest armor slot to make Curios' backpack slot appear.
+* Tweak Inventory Profiles Next defaults to disable its sorting buttons when viewing a Traveler's Backpack inventory (the backpack has its own sorting buttons), allow picked-up items to use hotbar slots as in vanilla Minecraft, and allow unenchanted tools under 500 durability to break (so unenchanted wood, stone and iron picks will be used up as usual, but any enchanted or high-tier tools will be saved from accidental destruction). If you already have the mod pack installed, the latter two changes won't be picked up automatically. To set them yourself, go to Mods > Inventory Profiles Next > Configure, and set:
+  * Locked Slots > Pick Items Directly into the Inventory to **false**
+  * Auto Refill > Allow Some Non Enchanted Gear to Break to **true**
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.0+1.19.2...main
 
