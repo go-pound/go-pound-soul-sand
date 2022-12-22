@@ -22,5 +22,17 @@
         "allow_break_for_non_enchanted": {
             "value": true
         }
+    },
+    "Hotkeys": {
+        "scroll_to_chest": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_to_inventory": {
+            "main": {
+                "keys": ""
+            }
+        }
     }
 }

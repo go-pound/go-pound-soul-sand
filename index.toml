@@ -17,6 +17,10 @@ file = "config/byg/config_versions.json5"
 hash = "37fb9f2598afdf6c72a8c447b22aedfda944440977ff7e7768e9866c04c4b50d"
 
 [[files]]
+file = "config/defaultoptions/extra/config/MouseTweaks.cfg"
+hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
+
+[[files]]
 file = "config/defaultoptions/extra/config/emi.css"
 hash = "4d381150f53c52a9987c2ce1230c3c99a92c7f82801e05a884729a437646b174"
 
@@ -26,7 +30,7 @@ hash = "342f16c55cc1da4824578125cba63797b14d5c40da0585f6da17e8f3ba2bf1e9"
 
 [[files]]
 file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "01bd48f9ebb3de6c011c0f06bae671cd3b0922674f1fc49f0b2d2b2d0b0abce2"
+hash = "9ff6a9785e9b8acc908c08bcf08ce1de7072cac796de96acbc6f7c6d069b769f"
 
 [[files]]
 file = "config/defaultoptions/extra/config/iris.properties"
