@@ -4,6 +4,7 @@ If you commit changes, please add release notes here!
 
 ## Upcoming
 
+* Slimmed down the mod list for a better-performing Ultimate Survival World experience. We'll bring back all of the content and quality of life mods for our next world!
 * Disabled Inventory Profiles' inventory scrolling in favor of Mouse Tweaks' positionally-aware scrolling feature. If you already have the mod pack installed, these changes may not be picked up automatically. To set them yourself:
   * Go to Mods > Inventory Profiles Next > Configure > Hotkeys, and clear the default "Scroll Wheel Up" and "Scroll Wheel Down" bindings for "Scroll Items from Player to Chest" and "Scroll Items from Chest to Player" by clicking on each hotkey button and pressing <kbd>esc</kbd>.
   * Go to Mods > Mouse Tweaks > Configure, and set "Scroll Direction" to "Inventory Position Aware".

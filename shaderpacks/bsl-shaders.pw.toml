@@ -1,5 +1,6 @@
 name = "bsl-shaders"
 filename = "BSL_v8.2.zip"
+side = "client"
 
 [download]
 url = "https://s3.amazonaws.com/minecraft/shader-packs/BSL_v8.2.zip"

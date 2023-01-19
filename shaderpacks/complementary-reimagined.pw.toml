@@ -1,5 +1,6 @@
 name = "complementary-reimagined"
 filename = "ComplementaryReimagined_r1.3.2.zip"
+side = "client"
 
 [download]
 url = "https://s3.amazonaws.com/minecraft/shader-packs/ComplementaryReimagined_r1.3.2.zip"

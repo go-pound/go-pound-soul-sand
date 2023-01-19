@@ -1,5 +1,6 @@
 name = "complementary"
 filename = "ComplementaryShaders_v4.6.zip"
+side = "client"
 
 [download]
 url = "https://s3.amazonaws.com/minecraft/shader-packs/ComplementaryShaders_v4.6.zip"
