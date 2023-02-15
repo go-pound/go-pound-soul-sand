@@ -4,6 +4,10 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.2.0+1.19.2..main
+
+## 1.2.0+1.19.2
+
 Now that we're done with the Ultimate Survival World, we're bringing back some of the content mods removed in Go Pound Sand 1.1.0.
 
 * Removed Xaero's World Map and Minimap to increase immersion.
@@ -14,7 +18,7 @@ Now that we're done with the Ultimate Survival World, we're bringing back some o
 * Bumped Inventory Profiles Next to 1.9.2.
 * Bumpled Complementary Reimagined shaders to 1.4.
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.2+1.19.2...main
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.1.0+1.19.2...v1.2.0+1.19.2
 
 ## 1.1.0+1.19.2
 
