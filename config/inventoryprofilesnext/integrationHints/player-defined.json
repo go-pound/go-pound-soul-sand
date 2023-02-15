@@ -13,23 +13,5 @@
                 "top": -20
             }
         }
-    },
-    "com.tom.storagemod.gui.StorageTerminalScreen": {
-        "ignore": true
-    },
-    "com.tom.storagemod.gui.StorageTerminalMenu": {
-        "ignore": true
-    },
-    "com.tom.storagemod.gui.CraftingTerminalScreen": {
-        "ignore": true
-    },
-    "com.tom.storagemod.gui.CraftingTerminalMenu": {
-        "ignore": true
-    },
-    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": {
-        "ignore": true
-    },
-    "com.tiviacz.travelersbackpack.inventory.screen.TravelersBackpackItemScreenHandler": {
-        "ignore": true
     }
 }

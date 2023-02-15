@@ -1,0 +1,13 @@
+name = "Earth2Java"
+filename = "earthtojavamobs-fabric-1.9.3+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d014339a81c3e00d2c67ab80d4fc75292766966"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3968924
+project-id = 398022

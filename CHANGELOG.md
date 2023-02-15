@@ -2,7 +2,21 @@
 
 If you commit changes, please add release notes here!
 
-## Upcoming
+## Unreleased
+
+Now that we're done with the Ultimate Survival World, we're bringing back some of the content mods removed in Go Pound Sand 1.1.0.
+
+* Removed Xaero's World Map and Minimap to increase immersion.
+* Removed Simple Emerald Tools to balance the survival game and encourage us to build Create contraptions to harvest resources in greater quantities.
+* Removed Toast Manager. You can disable tutorial and recipe toasts in Options > Video Settings > Extras.
+* Replaced Traveler's Backpack with the simpler [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis).
+* Added [Comforts](https://modrinth.com/mod/comforts) to replace Traveler's Backpack's sleeping bags.
+* Bumped Inventory Profiles Next to 1.9.2.
+* Bumpled Complementary Reimagined shaders to 1.4.
+
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.2+1.19.2...main
+
+## 1.1.0+1.19.2
 
 * Slimmed down the mod list for a better-performing Ultimate Survival World experience. We'll bring back all of the content and quality of life mods for our next world!
 * Bumped Iris to [1.5.0](https://modrinth.com/mod/iris/version/1.5.0+1.19.2).
@@ -10,7 +24,7 @@ If you commit changes, please add release notes here!
   * Go to Mods > Inventory Profiles Next > Configure > Hotkeys, and clear the default "Scroll Wheel Up" and "Scroll Wheel Down" bindings for "Scroll Items from Player to Chest" and "Scroll Items from Chest to Player" by clicking on each hotkey button and pressing <kbd>esc</kbd>.
   * Go to Mods > Mouse Tweaks > Configure, and set "Scroll Direction" to "Inventory Position Aware".
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.2+1.19.2...main
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.0.2+1.19.2...v1.1.0+1.19.2
 
 ## 1.0.2+1.19.2
 

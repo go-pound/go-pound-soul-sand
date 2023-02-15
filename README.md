@@ -6,6 +6,7 @@ Go Pound Soul Sand is Go Pound's Minecraft mod pack.
 
 1. [How to play](#how-to-play)
 1. [Mods](#mods)
+   1. [Create](#create)
    1. [New content](#new-content)
    1. [Quality of life](#quality-of-life)
    1. [Shaders](#shaders)
@@ -32,12 +33,34 @@ Go Pound Soul Sand is distributed as a self-updating [Prism Launcher](https://pr
 
 Here are the major, game-changing mods included in the pack. For an exhaustive list, including dependencies and version numbers, see the `*.pw.toml` metadata files in the [`mods` folder](mods).
 
+### Create
+
+Go Pound Soul Sand is built around [Create](https://modrinth.com/mod/create-fabric). Create adds a variety of blocks and tools with which you can build mechanical contraptions to automate and decorate your world—think conveyer belts, steam engines, mechanical presses, automated train networks, and much more. To get an idea of what's possible with Create, check out its trailer:
+
+[![Watch "This is Create" on YouTube](images/create-mod-trailer-thumbnail.jpg)](https://www.youtube.com/watch?v=rR8W-f9YhYA)
+
+Create features interactive, in-game documentation using a system called "Ponder". To try it out, open up your inventory and filter it to Create's blocks and items by typing `@create` into the search bar. Find a block or item with "Hold [w] to ponder" in its tooltip to view its animated tutorial:
+
+![Pondering the Mechanical Press](images/create-mod-pondering.jpg)
+
+There's also lots of educational Create content on YouTube!
+
 ### New content
 
 * [Auditory](https://modrinth.com/mod/auditory) adds unique block placement sounds.
+* [Comforts](https://modrinth.com/mod/comforts) adds sleeping bags that skip nighttime but don't set your spawn point, and hammocks that skip daytime if you're waiting for nighttime!
+* [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) adds lots of new building blocks, like beams, palisades, corner supports, bars and panels, braziers, bonfires, and more!
 * [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) enhances background sounds and adds subtle visual effects, like particle effects on waterfalls.
-* [Easy Emerald Tools](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) adds armor, tools and weapons that can be crafted out of emerald, copper, amethyst, obsidian, and two new materials: ruby and steel, crafted from existing ores. There are also some new useful tools, like the excavator (a 3x3 shovel), hammer (3x3 pickaxe), tree axe (which cuts down entire trees), and paxel (combination pickaxe, shovel and axe)!
-* [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric) adds customizable backpacks for adventurers!
+* [Earth2Java](https://modrinth.com/mod/earth2java) adds the mobs from Mojang's [Minecraft Earth](https://minecraft.fandom.com/wiki/Minecraft_Earth).
+* [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) updates vanilla biomes with fun mobs, blocks and structures!
+* [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric) "gently expands upon" the vanilla farming experience, with several new crops, foods and blocks. Follow its advancements in-game (press <kbd>L</kbd> to view the advancements screen), or read its [getting started guide](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started) to learn more.
+* [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis) (I Need More Inventory Space) adds simple backpacks.
+* [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist) adds immersive wildlife with realistic behavior! 🐘
+* [Oh the Biomes You'll Go](https://modrinth.com/mod/biomesyougo) adds a large variety of realistic and fantastical biomes to the world.
+* [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric) completely overhauls vanilla desert temples, making them bigger and more complex.
+* [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) revamps vanilla dungeons, adding more variety, rooms, and traps.
+* [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric) is a total redesign of vanilla mineshafts. They're bigger, more detailed, and have more variety and better loot.
+* [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric) improves vanilla strongholds with greater complexity, variety and difficulty. Reaching the End just got harder!
 
 ### Quality of life
 
@@ -52,7 +75,6 @@ Here are the major, game-changing mods included in the pack. For an exhaustive l
 * [Quick Connect Button](https://modrinth.com/mod/quickconnectbutton) adds a "Pound It!" button to the main menu that will connect you directly to the Go Pound Soul Sand server. No more wasting precious seconds clicking through the Multiplayer menu!
 * [Toast Manager](https://www.curseforge.com/minecraft/mc-mods/toast-manager) disables the tutorial and recipe toast notifications that you probably no longer need to guide you through the game. (But you can re-enable them in the mod's settings screen if you wish.)
 * [WTHIT](https://modrinth.com/mod/wthit) (What the Hell is That?) adds an optional hint to your in-game UI that shows the name and other useful details of the block or mob you're looking at.
-* [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) and [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) provide an in-game map with custom waypoints, player and entity markers, and many more features.
 * [Zoomify](https://modrinth.com/mod/zoomify) adds a highly-configurable zoom key (<kbd>C</kbd> by default) for all you zoomers out there.
 
 ### Shaders
