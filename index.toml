@@ -200,8 +200,18 @@ hash = "730a2942abc26467602f541397824c3d0f8cfb2d497f2239ec72d98f9c10fbe9"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "75c2c9732f980f22c774856f93fbea35a6a7f80a98af136f173956abc6cf5665"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
@@ -237,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "a0f3cd90fc6dea38e64e8083462c9bf09c37d03b0cb7906124f2d773039daa5b"
 metafile = true
 
 [[files]]

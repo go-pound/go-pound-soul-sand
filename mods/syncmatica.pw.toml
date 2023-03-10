@@ -1,0 +1,13 @@
+name = "Syncmatica"
+filename = "syncmatica-1.18.2-0.3.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bfneejKo/versions/GivVRSry/syncmatica-1.18.2-0.3.8.jar"
+hash-format = "sha1"
+hash = "d4fd8321d90caf7fdb3baf4082742e57478e3e33"
+
+[update]
+[update.modrinth]
+mod-id = "bfneejKo"
+version = "GivVRSry"
