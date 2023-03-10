@@ -4,7 +4,13 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.2.0+1.19.2..main
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.3.0+1.19.2..main
+
+## 1.3.0+1.19.2
+
+* Added [Freecam](https://www.curseforge.com/minecraft/mc-mods/free-cam) 1.1.6. Use <kbd>F4</kbd> to toggle the free camera.
+* Added [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) 0.12.6 and [Syncmatica](https://modrinth.com/mod/syncmatica) 0.3.8. Check out [this YouTube tutorial](https://www.youtube.com/watch?v=zHZLvJgpRag) to the learn the basics of how to save and load schematics.
+* Added [MiniHUD](https://beta.curseforge.com/minecraft/mc-mods/minihud) 0.23.3. Press <kbd>H</kbd> to show and hide the HUD, and use <kbd>H</kbd> + <kbd>C</kbd> to configure it.
 
 ## 1.2.0+1.19.2
 
