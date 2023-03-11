@@ -4,18 +4,24 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.4.0+1.19.2..main
+
+## 1.4.0+1.19.2
+
 * Re-added [Simple Emerald Tools](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) 1.4.38. Upon further reflection, its recipes are pretty well-balanced. What wasn't balanced was how many ores we acquired in the Ultimate Survival World, which made crafting the powerful tools trivial.
 * Bumped Complementary Reimagined shaders to [2.0.3](https://www.complementary.dev/changelogs/). This is a major update from 1.4, so be sure to check out the changelog for all the new features.
 * Bumped EMI to [0.6.6](https://modrinth.com/mod/emi/version/0.6.6+1.19.2).
 * Bumped Lithium to [0.11.0](https://modrinth.com/mod/lithium/version/GYl3zwgt).
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.3.0+1.19.2..main
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.3.0+1.19.2..v1.4.0+1.19.2
 
 ## 1.3.0+1.19.2
 
 * Added [Freecam](https://www.curseforge.com/minecraft/mc-mods/free-cam) 1.1.6. Use <kbd>F4</kbd> to toggle the free camera.
 * Added [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) 0.12.6 and [Syncmatica](https://modrinth.com/mod/syncmatica) 0.3.8. Check out [this YouTube tutorial](https://www.youtube.com/watch?v=zHZLvJgpRag) to the learn the basics of how to save and load schematics.
 * Added [MiniHUD](https://beta.curseforge.com/minecraft/mc-mods/minihud) 0.23.3. Press <kbd>H</kbd> to show and hide the HUD, and use <kbd>H</kbd> + <kbd>C</kbd> to configure it.
+
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.2.0+1.19.2..v1.3.0+1.19.2
 
 ## 1.2.0+1.19.2
 
