@@ -57,6 +57,7 @@ There's also lots of educational Create content on YouTube!
 * [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis) (I Need More Inventory Space) adds simple backpacks.
 * [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist) adds immersive wildlife with realistic behavior! 🐘
 * [Oh the Biomes You'll Go](https://modrinth.com/mod/biomesyougo) adds a large variety of realistic and fantastical biomes to the world.
+* [Simple Emerald Tools](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) adds sets of tools using vanilla materials between iron and diamond, plus some special tools for harvesting multiple blocks at once!
 * [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric) completely overhauls vanilla desert temples, making them bigger and more complex.
 * [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) revamps vanilla dungeons, adding more variety, rooms, and traps.
 * [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric) is a total redesign of vanilla mineshafts. They're bigger, more detailed, and have more variety and better loot.

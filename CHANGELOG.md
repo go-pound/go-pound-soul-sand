@@ -4,6 +4,8 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+* Re-added [Simple Emerald Tools](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) 1.4.38. Upon further reflection, its recipes are pretty well-balanced. What wasn't balanced was how many ores we acquired in the Ultimate Survival World, which made crafting the powerful tools trivial.
+
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.3.0+1.19.2..main
 
 ## 1.3.0+1.19.2
