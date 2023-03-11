@@ -5,6 +5,7 @@ If you commit changes, please add release notes here!
 ## Unreleased
 
 * Re-added [Simple Emerald Tools](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) 1.4.38. Upon further reflection, its recipes are pretty well-balanced. What wasn't balanced was how many ores we acquired in the Ultimate Survival World, which made crafting the powerful tools trivial.
+* Bumped Complementary Reimagined shaders to [2.0.3](https://www.complementary.dev/changelogs/). This is a major update from 1.4, so be sure to check out the changelog for all the new features.
 * Bumped Lithium to [0.11.0](https://modrinth.com/mod/lithium/version/GYl3zwgt).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.3.0+1.19.2..main
