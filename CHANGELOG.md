@@ -4,10 +4,14 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.4.1+1.19.2..main
+
+## 1.4.1+1.19.2
+
 * Bumped Lithium to [0.11.1](https://modrinth.com/mod/lithium/version/m6sVgAi6), which [should resolve a crash when viewing Create's ponder animations](https://github.com/CaffeineMC/lithium-fabric/issues/455).
 * Enable connected textures using [Continuity](https://modrinth.com/mod/continuity). To enable them, select the `continuity/default` and `continuity/glass_pane_culling_fix` resource packs in the game's Options > Resource Packs menu.
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.4.0+1.19.2..main
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.4.0+1.19.2..v1.4.1+1.19.2
 
 ## 1.4.0+1.19.2
 
