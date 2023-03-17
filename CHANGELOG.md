@@ -4,6 +4,8 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+* Bumped Lithium to [0.11.1](https://modrinth.com/mod/lithium/version/m6sVgAi6), which [should resolve a crash when viewing Create's ponder animations](https://github.com/CaffeineMC/lithium-fabric/issues/455).
+
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.4.0+1.19.2..main
 
 ## 1.4.0+1.19.2
