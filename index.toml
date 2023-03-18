@@ -41,6 +41,10 @@ file = "config/terrablender.toml"
 hash = "c3cf8b8f4ccf21159e2d427eb996550ab6c065b4e19e2f3ad53dbf177253e465"
 
 [[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "9af11b06402e67598a448ad5492cc849557b0e96920af500b045a0beeab366a7"
+
+[[files]]
 file = "knownkeys.txt"
 hash = "5e227765cb4abaae47b391439d0cff2597277e0a693995d118446ee628da27b5"
 
@@ -272,6 +276,21 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-items.pw.toml"
+hash = "340880bda1659a11530f87eb546491a5a90584c465424ca3e5d2ab25d59d53d3"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
 metafile = true
 
 [[files]]

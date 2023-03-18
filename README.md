@@ -101,6 +101,10 @@ Most shader packs are heavily customizable. Use the "Shader Pack Settings…" bu
 * [Lithium](https://modrinth.com/mod/lithium) heavily optimizes game logic, such as Redstone evaluation.
 * [Sodium](https://modrinth.com/mod/sodium) completely replaces the game's rendering engine with a highly-optimized, modern take.
 
+### Utility
+
+* [WorldEdit](https://enginehub.org/worldedit) enables large-scale in-game editing of the game world using various commands, selections and brushes. It's included in the mod pack mostly for staging server convenience (e.g. copying and pasting block selections in creative mode while designing builds) and emergency disaster recovery on the survival server.
+
 ## Contributing
 
 Go Pound Soul Sand is managed using [packwiz](https://github.com/packwiz/packwiz), a command line tool for creating Minecraft mod packs.

@@ -4,6 +4,8 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+* Added [WorldEdit](https://enginehub.org/worldedit) 7.2.12, [WorldEditCUI](https://beta.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) 1.19.2+01 and [WorldEdit Items](https://beta.curseforge.com/minecraft/mc-mods/worldedit-items) 1.2.1.
+
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.4.1+1.19.2..main
 
 ## 1.4.1+1.19.2

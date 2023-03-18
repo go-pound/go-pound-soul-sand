@@ -1,0 +1,13 @@
+name = "WorldEdit Items"
+filename = "WorldEditItems-v1.2.1-FabricQuilt.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29c546ab6d5fcfe9c6e480c4b74c8ba17370ad2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4273021
+project-id = 584724
