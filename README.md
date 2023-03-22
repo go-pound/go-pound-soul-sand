@@ -49,6 +49,7 @@ There's also lots of educational Create content on YouTube!
 
 * [Auditory](https://modrinth.com/mod/auditory) adds unique block placement sounds.
 * [Comforts](https://modrinth.com/mod/comforts) adds sleeping bags that skip nighttime but don't set your spawn point, and hammocks that skip daytime if you're waiting for nighttime!
+* [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) adds decor that matches Create's aesthetic.
 * [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) adds lots of new building blocks, like beams, palisades, corner supports, bars and panels, braziers, bonfires, and more!
 * [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) enhances background sounds and adds subtle visual effects, like particle effects on waterfalls.
 * [Earth2Java](https://modrinth.com/mod/earth2java) adds the mobs from Mojang's [Minecraft Earth](https://minecraft.fandom.com/wiki/Minecraft_Earth).

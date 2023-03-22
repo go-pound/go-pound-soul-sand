@@ -104,6 +104,11 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
+file = "mods/create-deco-fabric.pw.toml"
+hash = "3e2ed46e1811a2452f21cb75dfe5952b32e13e5845ac707e6ff199a14b58a6be"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
 metafile = true
