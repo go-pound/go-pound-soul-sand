@@ -33,12 +33,16 @@ file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
 hash = "b1fea424fa53f3a263e31c44e22dc7319ca1783fb0c527586c166f59fe8fdf49"
 
 [[files]]
+file = "config/naturescompass.json"
+hash = "cb687ab2242b9fccef7c928c4e91a241058c0c3c3b54fb313c9be85bad7a92a4"
+
+[[files]]
 file = "config/quickconnectbutton.json5"
 hash = "4aee5cb7d9534165fceb6ddf4eb671e07f17e0179da992e47c55ed3e29bc2e00"
 
 [[files]]
 file = "config/terrablender.toml"
-hash = "c3cf8b8f4ccf21159e2d427eb996550ab6c065b4e19e2f3ad53dbf177253e465"
+hash = "9e5b0c042562088a39179f96983df947b2c9b4fae53a4fe772076c89b18b09a0"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
@@ -246,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "928049dc37b7b41a8d7cadf9977d183527c74744f9dce884c9c04a76b3276832"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
 metafile = true
 
 [[files]]
