@@ -10,6 +10,10 @@ If you commit changes, please add release notes here!
 * Adjusted the ratio of vanilla Minecraft to Oh the Biomes You'll Go Nether biomes to slightly favor the vanilla biomes, since the modded biomes seemed to stretch on forever.
 * Added [Waystones](https://modrinth.com/mod/waystones) 11.3.1.
 * Added [Supplementaries](https://modrinth.com/mod/supplementaries) 2.3.0.
+* Bumped Inventory Profiles Next to [1.9.5](https://modrinth.com/mod/inventory-profiles-next/version/fabric-1.19.2-1.9.5).
+* Bumped Fabric Language Kotlin to [1.8.20](https://modrinth.com/mod/fabric-language-kotlin/version/1.9.3+kotlin.1.8.20).
+* Bumped libIPN to [2.0.4](https://modrinth.com/mod/libipn/version/fabric-1.19.2-2.0.4).
+* Bumped Fabric Loader to [0.14.17](https://github.com/FabricMC/fabric-loader/releases/tag/0.14.17). (Players will be prompted by the Packwiz launcher to update Fabric the first time they launch the game with this version.)
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.4.1+1.19.2..main
 
