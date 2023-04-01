@@ -45,6 +45,10 @@ file = "config/terrablender.toml"
 hash = "9e5b0c042562088a39179f96983df947b2c9b4fae53a4fe772076c89b18b09a0"
 
 [[files]]
+file = "config/waystones.toml"
+hash = "79348bdabfa20863a1247bbe77591bf4dac1270a35e165ebd00bd12814af79cc"
+
+[[files]]
 file = "config/worldedit/worldedit.properties"
 hash = "9af11b06402e67598a448ad5492cc849557b0e96920af500b045a0beeab366a7"
 
@@ -84,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
+hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
@@ -290,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "624cce653a3d8d5d551e6bd314da46fdb7184babb1c907dbf3df7f1d6526ccca"
 metafile = true
 
 [[files]]

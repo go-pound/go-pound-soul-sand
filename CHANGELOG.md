@@ -8,6 +8,7 @@ If you commit changes, please add release notes here!
 * Added [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) 1.2.13.
 * Added [Nature's Compass](https://beta.curseforge.com/minecraft/mc-mods/natures-compass) 2.1.0.
 * Adjusted the ratio of vanilla Minecraft to Oh the Biomes You'll Go Nether biomes to slightly favor the vanilla biomes, since the modded biomes seemed to stretch on forever.
+* Added [Waystones](https://modrinth.com/mod/waystones) 11.3.1.
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.4.1+1.19.2..main
 
