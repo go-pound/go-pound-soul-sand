@@ -60,6 +60,7 @@ There's also lots of educational Create content on YouTube!
 * [Nature's Compass](https://beta.curseforge.com/minecraft/mc-mods/natures-compass) adds a new type of compass that can point you toward any biome.
 * [Oh the Biomes You'll Go](https://modrinth.com/mod/biomesyougo) adds a large variety of realistic and fantastical biomes to the world.
 * [Simple Emerald Tools](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) adds sets of tools using vanilla materials between iron and diamond, plus some special tools for harvesting multiple blocks at once!
+* [Supplementaries](https://modrinth.com/mod/supplementaries) adds a large number of decorative and functional blocks, and various small tweaks and gameplay features. Check out [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki) for the full list.
 * [Waystones](https://modrinth.com/mod/waystones) offers ways to magically warp between locations—for an XP price! Check out [its wiki](https://blay09.net/mods/waystones/) for documentation.
 * [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric) completely overhauls vanilla desert temples, making them bigger and more complex.
 * [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) revamps vanilla dungeons, adding more variety, rooms, and traps.

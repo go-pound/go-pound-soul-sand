@@ -41,6 +41,10 @@ file = "config/quickconnectbutton.json5"
 hash = "4aee5cb7d9534165fceb6ddf4eb671e07f17e0179da992e47c55ed3e29bc2e00"
 
 [[files]]
+file = "config/supplementaries-common.json"
+hash = "55cf611bfba89e1239539daf249d592beaf88b9b5ead6061911c4b64c97406b1"
+
+[[files]]
 file = "config/terrablender.toml"
 hash = "9e5b0c042562088a39179f96983df947b2c9b4fae53a4fe772076c89b18b09a0"
 
@@ -247,6 +251,11 @@ hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "3e0f931b0bab8913f2d792fb3f05f7e52dfe4396abc9138fdbfcc96ee091c770"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
@@ -284,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "4b40f8aeb0da22054994df8dced57932b8a6baeefc127023813a98f9ded835ee"
 metafile = true
 
 [[files]]
