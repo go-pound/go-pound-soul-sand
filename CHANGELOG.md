@@ -4,6 +4,10 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.5.0+1.19.2..main
+
+## 1.5.0+1.19.2
+
 * Added [WorldEdit](https://enginehub.org/worldedit) 7.2.12, [WorldEditCUI](https://beta.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) 1.19.2+01 and [WorldEdit Items](https://beta.curseforge.com/minecraft/mc-mods/worldedit-items) 1.2.1.
 * Added [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) 1.2.13.
 * Added [Nature's Compass](https://beta.curseforge.com/minecraft/mc-mods/natures-compass) 2.1.0.
@@ -15,7 +19,7 @@ If you commit changes, please add release notes here!
 * Bumped libIPN to [2.0.4](https://modrinth.com/mod/libipn/version/fabric-1.19.2-2.0.4).
 * Bumped Fabric Loader to [0.14.17](https://github.com/FabricMC/fabric-loader/releases/tag/0.14.17). (Players will be prompted by the Packwiz launcher to update Fabric the first time they launch the game with this version.)
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.4.1+1.19.2..main
+**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.4.1+1.19.2..v1.5.0+1.19.2
 
 ## 1.4.1+1.19.2
 
