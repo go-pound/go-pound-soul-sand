@@ -10,7 +10,7 @@ hash = "37fb9f2598afdf6c72a8c447b22aedfda944440977ff7e7768e9866c04c4b50d"
 
 [[files]]
 file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "9ff6a9785e9b8acc908c08bcf08ce1de7072cac796de96acbc6f7c6d069b769f"
+hash = "b40f6c6bd4a5590c24eadd4a89385931ec54716b96ef28b0d60d1e1080e0abd3"
 
 [[files]]
 file = "config/defaultoptions/extra/options.amecsapi.txt"
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/earth2java.pw.toml"
 hash = "7df584bd186fd7c261ed180c4a1aaa0260439150c98a70e9c53510dcecc12eb2"
+metafile = true
+
+[[files]]
+file = "mods/easiervillagertrading.pw.toml"
+hash = "06614c130009ac62167aa8e192875f8677570d24c0937f37f24265b3dd23fb80"
 metafile = true
 
 [[files]]

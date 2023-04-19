@@ -74,6 +74,10 @@ There's also lots of educational Create content on YouTube!
 * [Amecs](https://modrinth.com/mod/amecs) (Alt-Meta-Escape-Control-Shift) allows you to use modifier keys in Minecraft's key bindings, so that e.g. <kbd>B</kbd> and <kbd>Shift</kbd> + <kbd>B</kbd> can be assigned to different functions. It also adds a search field to the key bindings menu.
 * [AutoRun](https://modrinth.com/mod/autorun) adds a key bind that toggles running, traveling in boats, and riding animals. Great for long distance travel! On a fresh installation of Go Pound Soul Sand, it's unbound by default.
 * [Continuity](https://modrinth.com/mod/continuity) makes certain block textures, like glass, dynamically join together when placed adjacent to each other, so multiple glass blocks appear as a single pane. To enable connected textures, go to Options > Resource Packs and select the `continuity/default` and `continuity/glass_pane_culling_fix` packs.
+* [EasierVillagerTrading](https://modrinth.com/mod/easiervillagertrading) changes the behavior of the villager trading UI to speed up your commerce:
+   * Clicking on a villager trade automatically performs that trade.
+   * Shift-clicking a trade performs it as many times as possible, until you run out of materials or the villager runs out of stock.
+   * Control-clicking a trade will prepare, but not perform it (the default vanilla behavior).
 * [EMI](https://modrinth.com/mod/emi) is an improved in-game recipe viewer with a searchable database of blocks and items.
 * [Freecam](https://www.curseforge.com/minecraft/mc-mods/free-cam) adds a keybind (<kbd>F4</kbd> by default) that lets you switch to a spectator mode camera and clip through blocks within your render distance. It can be useful for quickly inspecting builds and exploring the world.
 * [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) adds sorting buttons to inventory screens, helps you move items between inventories, can automatically replace broken tools, and more.

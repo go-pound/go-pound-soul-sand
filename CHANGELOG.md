@@ -5,6 +5,11 @@ If you commit changes, please add release notes here!
 ## Unreleased
 
 * Bumped Iris to [1.6.1](https://modrinth.com/mod/iris/version/1.6.0+1.19.2).
+* Unset Inventory Profiles Next's <kbd>r</kbd> hotkeys for sorting inventory by default.
+* Added [EasierVillagerTrading](https://modrinth.com/mod/easiervillagertrading) 1.5.4. 🚨 Note that **this mod changes the default behavior of the villager trading UI** in the following ways:
+   * Clicking on a villager trade automatically performs that trade.
+   * Shift-clicking a trade performs it as many times as possible, until you run out of materials or the villager runs out of stock.
+   * Control-clicking a trade will prepare, but not perform it (the default vanilla behavior).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.5.0+1.19.2..main
 
