@@ -4,6 +4,8 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+* Bumped Iris to [1.6.1](https://modrinth.com/mod/iris/version/1.6.0+1.19.2).
+
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.5.0+1.19.2..main
 
 ## 1.5.0+1.19.2
