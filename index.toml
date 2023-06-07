@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "28e812a40a5d86fb09985c57c35f85f8c8245a2f03c1e6420d55265daf095d65"
+hash = "929d8fcc448b029fd49f0cbe409d3f01f5a4a4ce2efa0d432bff825ab297c7be"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "1154d62e8f6992013fe2a20afbdee15a2becd7aae122802648195a9daaef6f01"
+hash = "b5511d0f86685879fc69cdf6a9ff991054cc9b25ef0a88855f1e259d32edcbee"
 metafile = true
 
 [[files]]
