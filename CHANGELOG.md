@@ -12,6 +12,7 @@ If you commit changes, please add release notes here!
    * Shift-clicking a trade performs it as many times as possible, until you run out of materials or the villager runs out of stock.
    * Control-clicking a trade will prepare, but not perform it (the default vanilla behavior).
 * Bumped Supplementaries to [2.3.17](https://modrinth.com/mod/supplementaries/version/GWVHmL1K).
+* Bumped EMI to [1.0.2](https://modrinth.com/mod/emi/version/NUdGBKhA).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.5.0+1.19.2..main
 
