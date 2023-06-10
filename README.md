@@ -111,6 +111,7 @@ Most shader packs are heavily customizable. Use the "Shader Pack Settings…" bu
 
 ### Utility
 
+* [ReplayMod](https://modrinth.com/mod/replaymod) allows you to record, replay and share Minecraft game sessions in a lightweight format. You can later replay the recording, add custom camera movements, and export to a video.
 * [WorldEdit](https://enginehub.org/worldedit) enables large-scale in-game editing of the game world using various commands, selections and brushes. It's included in the mod pack mostly for staging server convenience (e.g. copying and pasting block selections in creative mode while designing builds) and emergency disaster recovery on the survival server.
 
 ## Contributing

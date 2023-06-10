@@ -13,6 +13,7 @@ If you commit changes, please add release notes here!
    * Control-clicking a trade will prepare, but not perform it (the default vanilla behavior).
 * Bumped Supplementaries to [2.3.17](https://modrinth.com/mod/supplementaries/version/GWVHmL1K).
 * Bumped EMI to [1.0.2](https://modrinth.com/mod/emi/version/NUdGBKhA).
+* Added [ReplayMod](https://modrinth.com/mod/replaymod) 2.6.11.
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.5.0+1.19.2..main
 

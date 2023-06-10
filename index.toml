@@ -13,6 +13,10 @@ file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofil
 hash = "b40f6c6bd4a5590c24eadd4a89385931ec54716b96ef28b0d60d1e1080e0abd3"
 
 [[files]]
+file = "config/defaultoptions/extra/config/replaymod.json"
+hash = "8620da404458ced00762d398aa157bf0af60f5245f6a7b0b166c1968dfb3a88f"
+
+[[files]]
 file = "config/defaultoptions/extra/options.amecsapi.txt"
 hash = "9bfc1463a6bb214a5f7a9878ab8a6807e79dcd0ecc6aaaeb3a305f6d6d070adc"
 
@@ -283,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "7add152d1753e4068d086bfebcf6f1f4c9c22a5941085dec3335a8162f090ef3"
 metafile = true
 
 [[files]]
