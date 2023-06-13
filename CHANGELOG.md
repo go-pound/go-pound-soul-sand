@@ -14,6 +14,7 @@ If you commit changes, please add release notes here!
 * Bumped Supplementaries to [2.3.17](https://modrinth.com/mod/supplementaries/version/GWVHmL1K).
 * Bumped EMI to [1.0.2](https://modrinth.com/mod/emi/version/NUdGBKhA).
 * Added [ReplayMod](https://modrinth.com/mod/replaymod) 2.6.11.
+* Added [Trinkets](https://modrinth.com/mod/trinkets) 3.4.2.
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.5.0+1.19.2..main
 

@@ -87,6 +87,7 @@ There's also lots of educational Create content on YouTube!
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) enhances the vanilla RMB item dragging mechanic to make it more useful, adds two new LMB dragging mechanics, and the ability to quickly move items between inventories using your scroll wheel.
 * [Quick Connect Button](https://modrinth.com/mod/quickconnectbutton) adds a "Pound It!" button to the main menu that will connect you directly to the Go Pound Soul Sand server. No more wasting precious seconds clicking through the Multiplayer menu!
 * [Toast Manager](https://www.curseforge.com/minecraft/mc-mods/toast-manager) disables the tutorial and recipe toast notifications that you probably no longer need to guide you through the game. (But you can re-enable them in the mod's settings screen if you wish.)
+* [Trinkets](https://modrinth.com/mod/trinkets) adds additional inventory slots for modded gear, like backpacks and baubles.
 * [WTHIT](https://modrinth.com/mod/wthit) (What the Hell is That?) adds an optional hint to your in-game UI that shows the name and other useful details of the block or mob you're looking at.
 * [Zoomify](https://modrinth.com/mod/zoomify) adds a highly-configurable zoom key (<kbd>C</kbd> by default) for all you zoomers out there.
 

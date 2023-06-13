@@ -325,6 +325,11 @@ hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "624cce653a3d8d5d551e6bd314da46fdb7184babb1c907dbf3df7f1d6526ccca"
 metafile = true
