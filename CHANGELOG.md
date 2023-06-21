@@ -15,7 +15,6 @@ If you commit changes, please add release notes here!
 * Bumped EMI to [1.0.2](https://modrinth.com/mod/emi/version/NUdGBKhA).
 * Added [ReplayMod](https://modrinth.com/mod/replaymod) 2.6.11.
 * Added [Trinkets](https://modrinth.com/mod/trinkets) 3.4.2.
-* Bumped Create to [0.5.1b](https://modrinth.com/mod/create-fabric/version/0.5.1-b-build.1079+mc1.19.2). This is a patch release on top of the major [0.5.1a](https://modrinth.com/mod/create/version/1.19.2-0.5.1.a) feature release. [This video](https://www.youtube.com/watch?v=lmO1gl7gdUg) from polartt covers all of the changes and new features.
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.5.0+1.19.2..main
 
