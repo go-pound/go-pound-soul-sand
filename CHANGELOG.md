@@ -15,6 +15,7 @@ If you commit changes, please add release notes here!
 * Bumped EMI to [1.0.2](https://modrinth.com/mod/emi/version/NUdGBKhA).
 * Added [ReplayMod](https://modrinth.com/mod/replaymod) 2.6.11.
 * Added [Trinkets](https://modrinth.com/mod/trinkets) 3.4.2.
+* Bumped Complementary Reimagined shaders to [2.3](https://www.complementary.dev/changelogs/).
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.5.0+1.19.2..main
 
