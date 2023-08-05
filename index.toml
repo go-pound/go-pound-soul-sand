@@ -195,6 +195,11 @@ hash = "c762832a629cd85927c22b535e4fefb5efd80bacd3c784fd55e1da8a2715575f"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "3965557496e53c81de1720ab5533f6387eae2a033117ddc67e49885fe3300516"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
