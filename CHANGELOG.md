@@ -17,6 +17,7 @@ If you commit changes, please add release notes here!
 * Added [Trinkets](https://modrinth.com/mod/trinkets) 3.4.2.
 * Bumped Complementary Reimagined shaders to [2.3](https://www.complementary.dev/changelogs/).
 * Added [Immersive Paintings](https://modrinth.com/mod/immersive-paintings) 0.6.3.
+* Added [Chipped](https://modrinth.com/mod/chipped) 2.1.5.
 
 **Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.5.0+1.19.2..main
 

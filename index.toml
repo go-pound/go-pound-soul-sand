@@ -105,6 +105,11 @@ hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
@@ -297,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "7add152d1753e4068d086bfebcf6f1f4c9c22a5941085dec3335a8162f090ef3"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]

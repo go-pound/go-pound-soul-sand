@@ -48,6 +48,7 @@ There's also lots of educational Create content on YouTube!
 ### New content
 
 * [Auditory](https://modrinth.com/mod/auditory) adds unique block placement sounds.
+* [Chipped](https://modrinth.com/mod/chipped) adds thousands of vanilla-friendly, hand-textured block variants that you can build using several new workbenches.
 * [Comforts](https://modrinth.com/mod/comforts) adds sleeping bags that skip nighttime but don't set your spawn point, and hammocks that skip daytime if you're waiting for nighttime!
 * [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) adds decor that matches Create's aesthetic.
 * [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) adds lots of new building blocks, like beams, palisades, corner supports, bars and panels, braziers, bonfires, and more!
