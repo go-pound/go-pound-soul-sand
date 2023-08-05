@@ -20,7 +20,7 @@ services:
       DIFFICULTY: hard
       ENABLE_ROLLING_LOGS: 'true'
       EULA: 'true'
-      FABRIC_LOADER_VERSION: '0.14.11'
+      FABRIC_LOADER_VERSION: '0.14.22'
       ICON: 'https://raw.githubusercontent.com/go-pound/go-pound-soul-sand/main/images/go-pound-soul-sand-staging%4064.png'
       MEMORY: '4G'
       MODE: creative

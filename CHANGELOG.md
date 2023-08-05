@@ -4,22 +4,37 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
-* Bumped Iris to [1.6.5](https://modrinth.com/mod/iris/version/1.6.5+1.19.2).
-* Bumped Inventory Profiles Next to [1.10.6](https://modrinth.com/mod/inventory-profiles-next/version/fabric-1.19.2-1.10.6).
-* Unset Inventory Profiles Next's <kbd>r</kbd> hotkeys for sorting inventory by default.
+**Full changelog:** https://github.com/go-pound/go-pound-soul-sand/compare/v1.5.0+1.19.2..main
+
+### New mods
+
+* Added [Chipped](https://modrinth.com/mod/chipped) 2.1.5. Check out the new workbenches, from which you can craft more than 9,000 new block texture variants!
 * Added [EasierVillagerTrading](https://modrinth.com/mod/easiervillagertrading) 1.5.4. 🚨 Note that **this mod changes the default behavior of the villager trading UI** in the following ways:
    * Clicking on a villager trade automatically performs that trade.
    * Shift-clicking a trade performs it as many times as possible, until you run out of materials or the villager runs out of stock.
    * Control-clicking a trade will prepare, but not perform it (the default vanilla behavior).
-* Bumped Supplementaries to [2.3.17](https://modrinth.com/mod/supplementaries/version/GWVHmL1K).
-* Bumped EMI to [1.0.18](https://modrinth.com/mod/emi/version/1.0.18+1.19.2+fabric).
-* Added [ReplayMod](https://modrinth.com/mod/replaymod) 2.6.11.
-* Added [Trinkets](https://modrinth.com/mod/trinkets) 3.4.2.
-* Bumped Complementary Reimagined shaders to [2.3](https://www.complementary.dev/changelogs/).
-* Added [Immersive Paintings](https://modrinth.com/mod/immersive-paintings) 0.6.3.
-* Added [Chipped](https://modrinth.com/mod/chipped) 2.1.5.
+* Added [Immersive Paintings](https://modrinth.com/mod/immersive-paintings) 0.6.3. Decorate the world with custom paintings created from local files or URLs!
+* Added [ReplayMod](https://modrinth.com/mod/replaymod) 2.6.11. Record your gameplay sessions, then render them out to videos with custom camera moves.
+* Added [Trinkets](https://modrinth.com/mod/trinkets) 3.4.2, which enables a backpack inventory slot (accessible by hovering over your chest slot) that accepts backpacks from Inmis.
 
-**Full changelog**: https://github.com/go-pound/go-pound-soul-sand/compare/v1.5.0+1.19.2..main
+### Updated mods
+
+* Bumped Complementary Reimagined shaders to [2.3](https://www.complementary.dev/changelogs/).
+* ✨ **Bumped Create to [0.5.1b "Rise & Shine"](https://modrinth.com/mod/create-fabric/version/0.5.1-b-build.1089+mc1.19.2). This is a major feature update!** Check out the "Recent Changes" section of Create's in-game "ponder" documentation, and these links for details:
+  * [Create 0.5.1a release notes](https://modrinth.com/mod/create/version/1.18.2-0.5.1.a)
+  * [Create "Rise & Shine" overview video](https://www.youtube.com/watch?v=lmO1gl7gdUg) by polartt
+* Bumped Create Deco to [1.3.3](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric/files/4603714).
+* Bumped EMI to [1.0.18](https://modrinth.com/mod/emi/version/1.0.18+1.19.2+fabric).
+* Bumped Fabric API to [0.76.0](https://modrinth.com/mod/fabric-api/version/0.76.0+1.19.2).
+* Bumped Fabric Language Kotlin to [1.10.8](https://modrinth.com/mod/fabric-language-kotlin/version/1.10.8+kotlin.1.9.0).
+* Bumped Fabric Loader to [0.14.22](https://github.com/FabricMC/fabric-loader/releases/tag/0.14.22). (Players will be prompted by the Packwiz launcher to update Fabric the first time they launch the game with this version.)
+* Bumped Inventory Profiles Next to [1.10.6](https://modrinth.com/mod/inventory-profiles-next/version/fabric-1.19.2-1.10.6).
+* Bumped Iris to [1.6.5](https://modrinth.com/mod/iris/version/1.6.5+1.19.2).
+* Bumped Supplementaries to [2.3.17](https://modrinth.com/mod/supplementaries/version/GWVHmL1K).
+
+### Config changes
+
+* Unset Inventory Profiles Next's <kbd>r</kbd> hotkeys for sorting inventory by default.
 
 ## 1.5.0+1.19.2
 
