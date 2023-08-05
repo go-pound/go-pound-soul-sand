@@ -5,7 +5,7 @@ If you commit changes, please add release notes here!
 ## Unreleased
 
 * Bumped Iris to [1.6.5](https://modrinth.com/mod/iris/version/1.6.5+1.19.2).
-* Bumped Inventory Profiles Next to [1.10.2](https://modrinth.com/mod/inventory-profiles-next/version/fabric-1.19.2-1.10.2).
+* Bumped Inventory Profiles Next to [1.10.6](https://modrinth.com/mod/inventory-profiles-next/version/fabric-1.19.2-1.10.6).
 * Unset Inventory Profiles Next's <kbd>r</kbd> hotkeys for sorting inventory by default.
 * Added [EasierVillagerTrading](https://modrinth.com/mod/easiervillagertrading) 1.5.4. 🚨 Note that **this mod changes the default behavior of the villager trading UI** in the following ways:
    * Clicking on a villager trade automatically performs that trade.
