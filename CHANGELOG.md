@@ -12,7 +12,7 @@ If you commit changes, please add release notes here!
    * Shift-clicking a trade performs it as many times as possible, until you run out of materials or the villager runs out of stock.
    * Control-clicking a trade will prepare, but not perform it (the default vanilla behavior).
 * Bumped Supplementaries to [2.3.17](https://modrinth.com/mod/supplementaries/version/GWVHmL1K).
-* Bumped EMI to [1.0.2](https://modrinth.com/mod/emi/version/NUdGBKhA).
+* Bumped EMI to [1.0.18](https://modrinth.com/mod/emi/version/1.0.18+1.19.2+fabric).
 * Added [ReplayMod](https://modrinth.com/mod/replaymod) 2.6.11.
 * Added [Trinkets](https://modrinth.com/mod/trinkets) 3.4.2.
 * Bumped Complementary Reimagined shaders to [2.3](https://www.complementary.dev/changelogs/).
