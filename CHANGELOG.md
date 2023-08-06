@@ -4,9 +4,11 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
-Nothing yet!
-
 **Full changelog:** https://github.com/go-pound/go-pound-soul-sand/compare/v1.6.0+1.19.2..main
+
+### New mods
+
+* Added [Servux](https://modrinth.com/mod/servux) 0.1.0 to enable MiniHUD structure bounding box rendering in multiplayer.
 
 ## 1.6.0+1.19.2
 
