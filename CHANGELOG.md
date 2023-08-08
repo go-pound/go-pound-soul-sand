@@ -4,7 +4,13 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
-**Full changelog:** https://github.com/go-pound/go-pound-soul-sand/compare/v1.6.1+1.19.2..main
+Nothing yet!
+
+**Full changelog:** https://github.com/go-pound/go-pound-soul-sand/compare/v1.6.2+1.19.2..main
+
+## 1.6.2+1.19.2
+
+**Full changelog:** https://github.com/go-pound/go-pound-soul-sand/compare/v1.6.1+1.19.2..v1.6.2+1.19.2
 
 ### New mods
 
