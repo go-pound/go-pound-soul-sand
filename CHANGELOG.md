@@ -4,9 +4,11 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
-Nothing yet!
-
 **Full changelog:** https://github.com/go-pound/go-pound-soul-sand/compare/v1.6.1+1.19.2..main
+
+### New mods
+
+* Added [Couplings](https://modrinth.com/mod/couplings) 1.9.1 to make opening double doors more convenient.
 
 ## 1.6.1+1.19.2
 

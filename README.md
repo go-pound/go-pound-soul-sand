@@ -76,6 +76,7 @@ There's also lots of educational Create content on YouTube!
 * [Amecs](https://modrinth.com/mod/amecs) (Alt-Meta-Escape-Control-Shift) allows you to use modifier keys in Minecraft's key bindings, so that e.g. <kbd>B</kbd> and <kbd>Shift</kbd> + <kbd>B</kbd> can be assigned to different functions. It also adds a search field to the key bindings menu.
 * [AutoRun](https://modrinth.com/mod/autorun) adds a key bind that toggles running, traveling in boats, and riding animals. Great for long distance travel! On a fresh installation of Go Pound Soul Sand, it's unbound by default.
 * [Continuity](https://modrinth.com/mod/continuity) makes certain block textures, like glass, dynamically join together when placed adjacent to each other, so multiple glass blocks appear as a single pane. To enable connected textures, go to Options > Resource Packs and select the `continuity/default` and `continuity/glass_pane_culling_fix` packs.
+* [Couplings](https://modrinth.com/mod/couplings) makes adjacent doors, fence gates and trapdoors open together.
 * [EasierVillagerTrading](https://modrinth.com/mod/easiervillagertrading) changes the behavior of the villager trading UI to speed up your commerce:
    * Clicking on a villager trade automatically performs that trade.
    * Shift-clicking a trade performs it as many times as possible, until you run out of materials or the villager runs out of stock.
