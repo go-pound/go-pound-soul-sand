@@ -4,6 +4,7 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+* Bumped Create to [0.5.1c](https://modrinth.com/mod/create-fabric/version/okpdciJG).
 * Bumped Iris to [1.6.6](https://modrinth.com/mod/iris/version/1.6.6+1.19.2).
 
 **Full changelog:** https://github.com/go-pound/go-pound-soul-sand/compare/v1.6.2+1.19.2..main
