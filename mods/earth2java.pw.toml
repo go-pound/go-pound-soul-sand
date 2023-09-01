@@ -1,13 +1,13 @@
 name = "Earth2Java"
-filename = "earthtojavamobs-fabric-1.9.3+1.19.2.jar"
+filename = "earth2java-fabric-1.10.1+1.19.4.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/D2Q91keW/versions/RASXSxxU/earth2java-fabric-1.10.1%2B1.19.4.jar"
 hash-format = "sha1"
-hash = "4d014339a81c3e00d2c67ab80d4fc75292766966"
-mode = "metadata:curseforge"
+hash = "a1d14a8312fbab2994ad3e51854ecb4fb10035cc"
 
 [update]
-[update.curseforge]
-file-id = 3968924
-project-id = 398022
+[update.modrinth]
+mod-id = "D2Q91keW"
+version = "RASXSxxU"

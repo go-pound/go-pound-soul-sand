@@ -1,13 +1,13 @@
 name = "YUNG's Better Desert Temples (Fabric)"
-filename = "YungsBetterDesertTemples-1.19.2-Fabric-2.2.1.jar"
+filename = "YungsBetterDesertTemples-1.19.4-Fabric-2.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4eb0c721127ba14c79f25d029ba34169471da923"
+hash = "3e04c4e7a14c025fed9f116e9c7560426aad2112"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4031661
+file-id = 4454279
 project-id = 631020

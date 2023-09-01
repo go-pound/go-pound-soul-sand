@@ -1,13 +1,13 @@
 name = "YUNG's Better Strongholds (Fabric)"
-filename = "YungsBetterStrongholds-1.19.2-Fabric-3.2.0.jar"
+filename = "YungsBetterStrongholds-1.19.4-Fabric-3.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "188832492811946a52303579573055f5cd11aaa8"
+hash = "947681eaadc43b7ae7f66abc53e67d582b989a68"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4031215
+file-id = 4454270
 project-id = 480684

@@ -1,13 +1,13 @@
 name = "Amecs"
-filename = "amecs-1.3.8+mc.1.19-rc2.jar"
+filename = "amecs-1.3.9+mc.1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rcLriA4v/versions/1.3.8%2Bmc.1.19-rc2/amecs-1.3.8%2Bmc.1.19-rc2.jar"
+url = "https://cdn.modrinth.com/data/rcLriA4v/versions/XceegAxv/amecs-1.3.9%2Bmc.1.19.4.jar"
 hash-format = "sha1"
-hash = "88c0fcf573a511760be66c562b14f9a3a056fee2"
+hash = "81bbaf80d7a6bd934edb074fcb41808d755bc25e"
 
 [update]
 [update.modrinth]
 mod-id = "rcLriA4v"
-version = "RcXP5WO3"
+version = "XceegAxv"
