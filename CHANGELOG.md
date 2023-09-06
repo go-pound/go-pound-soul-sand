@@ -4,6 +4,12 @@ If you commit changes, please add release notes here!
 
 ## Unreleased
 
+### New mods
+
+* Added [Symbol Chat](https://modrinth.com/mod/symbol-chat) 0.5.1.
+
+### Updated mods
+
 * Bumped Create to [0.5.1c](https://modrinth.com/mod/create-fabric/version/okpdciJG).
 * Bumped Iris to [1.6.6](https://modrinth.com/mod/iris/version/1.6.6+1.19.2).
 

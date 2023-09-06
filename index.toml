@@ -340,6 +340,11 @@ hash = "acf72279b763296d70a3e0c4e07974207055489c91b029fd054aa835d0502554"
 metafile = true
 
 [[files]]
+file = "mods/symbol-chat.pw.toml"
+hash = "03b9e96361fcc7d73ed4c617b8187657f2f6838a748a71ec870cce9cef796f17"
+metafile = true
+
+[[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "a0f3cd90fc6dea38e64e8083462c9bf09c37d03b0cb7906124f2d773039daa5b"
 metafile = true
