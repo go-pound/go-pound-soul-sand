@@ -6,6 +6,7 @@ If you commit changes, please add release notes here!
 
 ### New mods
 
+* Added [Extended Drawers](https://modrinth.com/mod/extended-drawers) 1.4.5.
 * Added [Symbol Chat](https://modrinth.com/mod/symbol-chat) 0.5.1.
 
 ### Updated mods

@@ -55,6 +55,7 @@ There's also lots of educational Create content on YouTube!
 * [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) enhances background sounds and adds subtle visual effects, like particle effects on waterfalls.
 * [Earth2Java](https://modrinth.com/mod/earth2java) adds the mobs from Mojang's [Minecraft Earth](https://minecraft.fandom.com/wiki/Minecraft_Earth).
 * [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) updates vanilla biomes with fun mobs, blocks and structures!
+* [Extended Drawers](https://modrinth.com/mod/extended-drawers) adds drawer blocks, making it easier to store lots of different items in a compact space.
 * [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric) "gently expands upon" the vanilla farming experience, with several new crops, foods and blocks. Follow its advancements in-game (press <kbd>L</kbd> to view the advancements screen), or read its [getting started guide](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started) to learn more.
 * [Immersive Paintings](https://modrinth.com/mod/immersive-paintings) allows you to add your own custom paintings from local files or a URL!
 * [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis) (I Need More Inventory Space) adds simple backpacks.
