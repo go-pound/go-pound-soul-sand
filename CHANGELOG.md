@@ -12,7 +12,8 @@ If you commit changes, please add release notes here!
 ### Updated mods
 
 * Bumped Create to [0.5.1c](https://modrinth.com/mod/create-fabric/version/okpdciJG).
-* Bumped Iris to [1.6.6](https://modrinth.com/mod/iris/version/1.6.6+1.19.2).
+* Bumped Iris to [1.6.10](https://modrinth.com/mod/iris/version/1.6.10+1.19.2).
+* Bumped EMI to [1.0.23](https://modrinth.com/mod/emi/version/1.0.23+1.19.2+fabric).
 
 **Full changelog:** https://github.com/go-pound/go-pound-soul-sand/compare/v1.6.2+1.19.2..main
 

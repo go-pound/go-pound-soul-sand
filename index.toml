@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d0e79f62e18b0e93ab62d2a3d6fd139a2d40e9839eb359f2fad2e1ec12dc7b81"
+hash = "462d8388d0c7bcf9e876d552fe6b0f9649758b666b888255c7b7b8e99a0a08a9"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "66023ec6fd9d24094d04daa9d94d7f8fee950ac4f4bcd56aa08c0ad394678d7f"
+hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
 metafile = true
 
 [[files]]
